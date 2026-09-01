@@ -11,7 +11,7 @@ from PyQt5.QtCore import QLocale, QTranslator, QSettings, Qt
 from PyQt5.QtGui import QIcon, QColor, QPalette
 from PyQt5.QtWidgets import QApplication, qApp, QStyleFactory
 
-from manuskript.functions import appPath, writablePath
+from manuskript.functions import appPath, writablePath, resetTranslation
 from manuskript.version import getVersion
 
 try:
@@ -86,6 +86,7 @@ def prepare(arguments, tests=False):
     def activateTranslation(translation, source):
         """Loads the most suitable translation based on the available information."""
         using_builtin_translation = True
+        resetTranslation()
 
         if (translation != ""):  # empty string == 'no translation, use builtin'
             if isinstance(translation, str):
@@ -163,6 +164,10 @@ def prepare(arguments, tests=False):
             # app.setStyleSheet("QToolTip { color: #ffffff; background-color: #2a82da; border: 1px solid white; }")
 
     respectSystemDarkThemeSetting()
+
+    # Apply configurable tooltip styling
+    from manuskript import settings as manuskript_settings
+    manuskript_settings.applyTooltipStyle()
 
     QIcon.setThemeSearchPaths(QIcon.themeSearchPaths() + [appPath("icons")])
     QIcon.setThemeName("NumixMsk")

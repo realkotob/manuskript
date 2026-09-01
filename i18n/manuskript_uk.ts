@@ -1,55 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="uk">
+<TS version="2.1" language="uk_UA">
+<context>
+    <name>BulkInfoManager</name>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="69"/>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="70"/>
+        <source>Affected Characters:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="71"/>
+        <source>NONE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="72"/>
+        <source>Add entry to the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="73"/>
+        <source>Remove entry from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="74"/>
+        <source>Adds all items to the selected characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="75"/>
+        <source>Apply Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 <context>
     <name>ExportersManager</name>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="162"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="165"/>
         <source>Manage Exporters</source>
         <translation>Керувати експортерами</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="166"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="169"/>
         <source>Manuskript</source>
         <translation>Манускрипт</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="168"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="171"/>
         <source>Description</source>
         <translation>Опис</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="169"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="172"/>
         <source>Offers export to</source>
         <translation>Може експортувати у</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="170"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="173"/>
         <source>Status</source>
         <translation>Стан</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="171"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="174"/>
         <source>Status:</source>
         <translation>Стан:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="172"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="175"/>
         <source>Version:</source>
         <translation>Версія:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="173"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="176"/>
         <source>Path:</source>
         <translation>Шлях:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="174"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="177"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="175"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="178"/>
         <source>{HelpText}</source>
         <translation>{HelpText}</translation>
     </message>
@@ -57,47 +95,47 @@
 <context>
     <name>FrequencyAnalyzer</name>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="103"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="107"/>
         <source>Frequency Analyzer</source>
         <translation>Частотний аналіз</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="108"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="112"/>
         <source>Word frequency</source>
         <translation>Частота слів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="104"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="108"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="105"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="109"/>
         <source>Minimum size:</source>
         <translation>Мінімальний розмір:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="106"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="110"/>
         <source>Exclude words (comma separated):</source>
         <translation>Не враховувати слова (розділені комою):</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="111"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="115"/>
         <source>Analyze</source>
         <translation>Аналізувати</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="112"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="116"/>
         <source>Phrase frequency</source>
         <translation>Частота висловів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="109"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="113"/>
         <source>Number of words: from</source>
         <translation>Кількість слів: від</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="110"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="114"/>
         <source>to</source>
         <translation>до</translation>
     </message>
@@ -399,12 +437,12 @@
     <message>
         <location filename="../manuskript/ui/searchMenu.py" line="25"/>
         <source>FlatData</source>
-        <translation>FlatData</translation>
+        <translation>Исходник</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/mainWindow.py" line="1561"/>
         <source>Persos</source>
-        <translation>Persos</translation>
+        <translation>Персонажи</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/mainWindow.py" line="1565"/>
@@ -552,17 +590,17 @@
         <translation>Про Манускрипт</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1084"/>
+        <location filename="../manuskript/mainWindow.py" line="1085"/>
         <source>Manuskript</source>
         <translation>Манускрипт</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1216"/>
+        <location filename="../manuskript/mainWindow.py" line="1217"/>
         <source>Project {} saved.</source>
         <translation>Проєкт {} збережено.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1220"/>
+        <location filename="../manuskript/mainWindow.py" line="1221"/>
         <source>WARNING: Project {} not saved.</source>
         <translation>УВАГА: Проєкт {} не збережено.</translation>
     </message>
@@ -577,151 +615,151 @@
         <translation>Проєкт {} завантажено з кількома помилками.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1613"/>
+        <location filename="../manuskript/mainWindow.py" line="1622"/>
         <source> (~{} pages)</source>
         <translation> (~{} сторінок)</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1616"/>
+        <location filename="../manuskript/mainWindow.py" line="1625"/>
         <source>Words: {}{}</source>
         <translation>Слів: {}{}</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1624"/>
+        <location filename="../manuskript/mainWindow.py" line="1633"/>
         <source>Book summary</source>
         <translation>Опис книги</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1625"/>
+        <location filename="../manuskript/mainWindow.py" line="1634"/>
         <source>Project tree</source>
         <translation>Дерево проєкту</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1626"/>
+        <location filename="../manuskript/mainWindow.py" line="1635"/>
         <source>Metadata</source>
         <translation>Метадані</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1627"/>
+        <location filename="../manuskript/mainWindow.py" line="1636"/>
         <source>Story line</source>
         <translation>Сюжетна лінія</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1692"/>
+        <location filename="../manuskript/mainWindow.py" line="1701"/>
         <source>Enter information about your book, and yourself.</source>
         <translation>Введіть інформацію про книгу та про вас.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1695"/>
+        <location filename="../manuskript/mainWindow.py" line="1704"/>
         <source>The basic situation, in the form of a &apos;What if...?&apos; question. Ex: &apos;What if the most dangerous
                      evil wizard wasn&apos;t able to kill a baby?&apos; (Harry Potter)</source>
         <translation>Основна ситуація у формі запитання «Що буде, якщо...?»
 Приклад: «Що, якщо злий чарівник не зміг убити дитину?» (Гаррі Поттер)</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1700"/>
+        <location filename="../manuskript/mainWindow.py" line="1709"/>
         <source>Take time to think about a one sentence (~50 words) summary of your book. Then expand it to
                      a paragraph, then to a page, then to a full summary.</source>
         <translation>Добре подумайте над описом книги в одне речення (~50 слів).
 Потім розпишіть до абзацу, потім до сторінки, а потім до повного опису.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1705"/>
+        <location filename="../manuskript/mainWindow.py" line="1714"/>
         <source>Create your characters.</source>
         <translation>Створіть персонажів.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1708"/>
+        <location filename="../manuskript/mainWindow.py" line="1717"/>
         <source>Develop plots.</source>
         <translation>Розвивайте сюжети.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1711"/>
+        <location filename="../manuskript/mainWindow.py" line="1720"/>
         <source>Build worlds.  Create hierarchy of broad categories down to specific details.</source>
         <translation>Будуйте світи.  Створіть ієрархію широких категорій аж до конкретних деталей.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1714"/>
+        <location filename="../manuskript/mainWindow.py" line="1723"/>
         <source>Create the outline of your masterpiece.</source>
         <translation>Створіть план свого шедевра.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1717"/>
+        <location filename="../manuskript/mainWindow.py" line="1726"/>
         <source>Write.</source>
         <translation>Пишіть.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1720"/>
+        <location filename="../manuskript/mainWindow.py" line="1729"/>
         <source>Debug info. Sometimes useful.</source>
         <translation>Інформація про налагодження. Іноді корисно.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1734"/>
+        <location filename="../manuskript/mainWindow.py" line="1743"/>
         <source>Dictionary</source>
         <translation>Словник</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1882"/>
+        <location filename="../manuskript/mainWindow.py" line="1891"/>
         <source>Nothing</source>
         <translation>Немає</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1883"/>
+        <location filename="../manuskript/mainWindow.py" line="1892"/>
         <source>POV</source>
         <translation>Оповідає</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1884"/>
+        <location filename="../manuskript/mainWindow.py" line="1893"/>
         <source>Label</source>
         <translation>Позначка</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1885"/>
+        <location filename="../manuskript/mainWindow.py" line="1894"/>
         <source>Progress</source>
         <translation>Стан</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1886"/>
+        <location filename="../manuskript/mainWindow.py" line="1895"/>
         <source>Compile</source>
         <translation>Експорт</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1909"/>
+        <location filename="../manuskript/mainWindow.py" line="1918"/>
         <source>Icon color</source>
         <translation>Колір позначки</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1910"/>
+        <location filename="../manuskript/mainWindow.py" line="1919"/>
         <source>Text color</source>
         <translation>Колір тексту</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1911"/>
+        <location filename="../manuskript/mainWindow.py" line="1920"/>
         <source>Background color</source>
         <translation>Колір тла</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1902"/>
+        <location filename="../manuskript/mainWindow.py" line="1911"/>
         <source>Icon</source>
         <translation>Іконка</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1903"/>
+        <location filename="../manuskript/mainWindow.py" line="1912"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1904"/>
+        <location filename="../manuskript/mainWindow.py" line="1913"/>
         <source>Background</source>
         <translation>Тло</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1905"/>
+        <location filename="../manuskript/mainWindow.py" line="1914"/>
         <source>Border</source>
         <translation>Рамка</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1906"/>
+        <location filename="../manuskript/mainWindow.py" line="1915"/>
         <source>Corner</source>
         <translation>Кут</translation>
     </message>
@@ -911,52 +949,52 @@
         <translation>&amp;Цитата</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="925"/>
+        <location filename="../manuskript/mainWindow.py" line="923"/>
         <source>The file {} does not exist. Has it been moved or deleted?</source>
         <translation>Файл {} не існує. Його переміщено чи видалено?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1748"/>
+        <location filename="../manuskript/mainWindow.py" line="1757"/>
         <source>Install {}{} to use spellcheck</source>
         <translation>Встановіть {}{}, щоб використовувати перевірку правопису</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1790"/>
+        <location filename="../manuskript/mainWindow.py" line="1799"/>
         <source>{} has no installed dictionaries</source>
         <translation>{} не має встановлених словників</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1811"/>
+        <location filename="../manuskript/mainWindow.py" line="1820"/>
         <source>{}{} is not installed</source>
         <translation>{}{} не встановлено</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Save project?</source>
         <translation>Зберегти проєкт?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Save changes to project &quot;{}&quot; before closing?</source>
         <translation>Зберегти зміни в проєкті &quot;{}&quot; перед закриттям?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Your changes will be lost if you don&apos;t save them.</source>
         <translation>Зміни буде втрачено, якщо ви їх не збережете.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2009"/>
+        <location filename="../manuskript/mainWindow.py" line="2018"/>
         <source>PyQt / Qt versions 5.11 and 5.12 are known to cause a crash which might result in a loss of data.</source>
         <translation>Відомо, що PyQt / Qt версій 5.11 і 5.12 спричиняє збій, який може призвести до втрати даних.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2010"/>
+        <location filename="../manuskript/mainWindow.py" line="2019"/>
         <source>PyQt {} and Qt {} are in use.</source>
         <translation>Використовуються PyQt {} та Qt {}.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2016"/>
+        <location filename="../manuskript/mainWindow.py" line="2025"/>
         <source>Proceed with import at your own risk</source>
         <translation>Почати імпорт на власний ризик</translation>
     </message>
@@ -1016,37 +1054,37 @@
         <translation>Знайдіть лог-файл діагностики для цього сеансу.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1548"/>
+        <location filename="../manuskript/mainWindow.py" line="1557"/>
         <source>Sorry!</source>
         <translation>Вибачте!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1548"/>
+        <location filename="../manuskript/mainWindow.py" line="1557"/>
         <source>This session is not being logged.</source>
         <translation>Цей сеанс не записується.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>A log file is a Work in Progress!</source>
         <translation>Лог-файл — ще незавершена робота!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>The log file &quot;{}&quot; will continue to be written to until Manuskript is closed.</source>
         <translation>У лог-файл &quot;{}&quot; продовжуватиметься запис, доки Манускрипт не закрито.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>It will now be displayed in your file manager, but is of limited use until you close Manuskript.</source>
         <translation>Тепер це відображатиметься у вашому файловому менеджері, але використовуватиметься обмежено, доки Манускрипт не закрито.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1573"/>
+        <location filename="../manuskript/mainWindow.py" line="1582"/>
         <source>Error!</source>
         <translation>Помилка!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1573"/>
+        <location filename="../manuskript/mainWindow.py" line="1582"/>
         <source>An error was encountered while trying to show the log file below in your file manager.</source>
         <translation>Сталася помилка під час спроби показати цей лог-файл у вашому файловому менеджері.</translation>
     </message>
@@ -1061,42 +1099,42 @@
         <translation>Цілі кількості слів для чернетки та сесії</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="387"/>
+        <location filename="../manuskript/mainWindow.py" line="385"/>
         <source>Value</source>
         <translation>Значення</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="395"/>
+        <location filename="../manuskript/mainWindow.py" line="393"/>
         <source>Bulk Info Manager</source>
         <translation>Менеджер масової інформації</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="440"/>
+        <location filename="../manuskript/mainWindow.py" line="438"/>
         <source>No Entries!</source>
         <translation>Записів немає!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="440"/>
+        <location filename="../manuskript/mainWindow.py" line="438"/>
         <source>Please add entries to apply to the selected characters.</source>
         <translation>Будь ласка, додайте записи для застосування до вибраних персонажів.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="451"/>
+        <location filename="../manuskript/mainWindow.py" line="449"/>
         <source>Bulk Info Applied</source>
         <translation>Масова інформація застосована</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="451"/>
+        <location filename="../manuskript/mainWindow.py" line="449"/>
         <source>The bulk info has been applied to the selected characters.</source>
         <translation>Значення додано до обраних персонажів.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="523"/>
+        <location filename="../manuskript/mainWindow.py" line="521"/>
         <source>Un-applied data!</source>
         <translation>Незастосовані дані!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="523"/>
+        <location filename="../manuskript/mainWindow.py" line="521"/>
         <source>There are un-applied entries in this tab. Discard them?</source>
         <translation>На цій вкладці є незастосовані записи. Видалити їх?</translation>
     </message>
@@ -1115,6 +1153,11 @@
         <source>Go &amp;forward</source>
         <translation>Перейти &amp;вперед</translation>
     </message>
+    <message>
+        <location filename="../manuskript/mainWindow.py" line="1251"/>
+        <source>Loading project {} failed.</source>
+        <translation>Проект {} не загружен.</translation>
+    </message>
 </context>
 <context>
     <name>Search</name>
@@ -1127,747 +1170,757 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1766"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1837"/>
         <source>Settings</source>
         <translation>Налаштування</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1770"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1841"/>
         <source>General</source>
         <translation>Загальне</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1800"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1873"/>
         <source>Revisions</source>
         <translation>Ревізії</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1774"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1845"/>
         <source>Views</source>
         <translation>Відображення</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1962"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2035"/>
         <source>Labels</source>
         <translation>Позначки</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1963"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2036"/>
         <source>Status</source>
         <translation>Стан</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1964"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2037"/>
         <source>Fullscreen</source>
         <translation>Повноекранний</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1782"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1855"/>
         <source>General settings</source>
         <translation>Загальні налаштування</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1783"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1856"/>
         <source>Application settings</source>
         <translation>Налаштування програми</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1790"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1863"/>
         <source>Loading</source>
         <translation>Завантаження</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1791"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1864"/>
         <source>Automatically load last project on startup</source>
         <translation>Завантажувати останній проєкт при запуску</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1792"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1865"/>
         <source>Saving</source>
         <translation>Збереження</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1793"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1866"/>
         <source>Automatically save every</source>
         <translation>Автоматично зберігати кожні</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1794"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1867"/>
         <source>minutes.</source>
         <translation>хвилин.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1795"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1868"/>
         <source>If no changes during</source>
         <translation>Якщо нема змін протягом</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1796"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1869"/>
         <source>seconds.</source>
         <translation>секунд.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1797"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1870"/>
         <source>Save on project close</source>
         <translation>Зберігати при закритті проєкту</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1798"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1871"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If you check this option, your project will be saved as one single file. Easier to copy or backup, but does not allow collaborative editing, or versioning.&lt;br/&gt;If this is unchecked, your project will be saved as a folder containing many small files.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Якщо ви ввімкнете цей параметр, ваш проєкт буде збережено як один файл. Простіше копіювати або створювати резервні копії, але не дозволяє спільне редагування чи керування версіями.&lt;br/&gt;Якщо цей прапорець не ввімкнено, ваш проєкт буде збережено як теку, що містить багато невеликих файлів.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1799"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1872"/>
         <source>Save to one single file</source>
         <translation>Зберігати в один файл</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1801"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1874"/>
         <source>Revisions are a way to keep track of modifications. For each text item, it stores any changes you make to the main text, allowing you to see and restoring previous versions.</source>
         <translation>Ревізії це спосіб відстежувати зміни. Для кожного текстового елемента він зберігає будь-які зміни, внесені в основний текст, що дозволяє переглядати та відновлювати попередні версії.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1802"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1875"/>
         <source>Keep revisions</source>
         <translation>Зберігати ревізії</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1803"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1876"/>
         <source>S&amp;mart remove</source>
         <translation>&amp;Розумне видалення</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1804"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1877"/>
         <source>Keep:</source>
         <translation>Зберігати:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1805"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1878"/>
         <source>Smart remove allows you to keep only a certain number of revisions. It is strongly recommended to use it, lest your files would be bloated with thousands of insignificant changes.</source>
         <translation>Розумне видалення дозволяє зберегти лише певну кількість версій. Настійно рекомендується використовувати його, щоб ваш файл не мав тисячі незначних змін.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1806"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1879"/>
         <source>revisions per day for the last month</source>
         <translation>редагувань / день за останній місяць</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1807"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1880"/>
         <source>revisions per minute for the last 10 minutes</source>
         <translation>редагувань / хвилину за останні 10 хвилин</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1808"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1881"/>
         <source>revisions per hour for the last day</source>
         <translation>редагувань / годину за останній день</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1809"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1882"/>
         <source>revisions per 10 minutes for the last hour</source>
         <translation>редагувань / 10 хвилин за останню годину</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1810"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1883"/>
         <source>revisions per week till the end of time</source>
         <translation>редагувань / тиждень до кінця часу</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1812"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1885"/>
         <source>Views settings</source>
         <translation>Налаштування відображення</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1849"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1922"/>
         <source>Tree</source>
         <translation>Дерево</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1917"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1990"/>
         <source>Colors</source>
         <translation>Кольори</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1886"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1959"/>
         <source>Icon color:</source>
         <translation>Колір іконки:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1911"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1984"/>
         <source>Nothing</source>
         <translation>Немає</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1912"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1985"/>
         <source>POV</source>
         <translation>Оповідає</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1913"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1986"/>
         <source>Label</source>
         <translation>Позначка</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1914"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1987"/>
         <source>Progress</source>
         <translation>Прогрес</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1915"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1988"/>
         <source>Compile</source>
         <translation>Зібрати</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1892"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2097"/>
         <source>Text color:</source>
         <translation>Колір тексту:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1898"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2098"/>
         <source>Background color:</source>
         <translation>Колір тла:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1836"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1909"/>
         <source>Folders</source>
         <translation>Теки</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1837"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1910"/>
         <source>Show ite&amp;m count</source>
         <translation>Показати кількість &amp;елементів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1847"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1920"/>
         <source>Show summary</source>
         <translation>Показати опис</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1842"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1915"/>
         <source>&amp;Nothing</source>
         <translation>&amp;Немає</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1843"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1916"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1878"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1951"/>
         <source>Outline</source>
         <translation>План</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1869"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1942"/>
         <source>Visible columns</source>
         <translation>Видимі стовбці</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1870"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1943"/>
         <source>Goal</source>
         <translation>Мета</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1871"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1944"/>
         <source>Word count</source>
         <translation>Кількість слів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1872"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1945"/>
         <source>Percentage</source>
         <translation>Відсоток</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1877"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1950"/>
         <source>Title</source>
         <translation>Назва</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1916"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1989"/>
         <source>Index cards</source>
         <translation>Картки</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1885"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1958"/>
         <source>Item colors</source>
         <translation>Кольори елементів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1904"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2099"/>
         <source>Border color:</source>
         <translation>Колір рамки:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1910"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1983"/>
         <source>Corner color:</source>
         <translation>Колір кута:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1879"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1952"/>
         <source>Background</source>
         <translation>Тло</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2000"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2073"/>
         <source>Color:</source>
         <translation>Колір:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1976"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2049"/>
         <source>Image:</source>
         <translation>Зображення:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1961"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2034"/>
         <source>Text editor</source>
         <translation>Текстовий редактор</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1922"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1995"/>
         <source>Font</source>
         <translation>Шрифт</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1923"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1996"/>
         <source>Family:</source>
         <translation>Сім’я:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2002"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2075"/>
         <source>Size:</source>
         <translation>Розмір:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2003"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2076"/>
         <source>Misspelled:</source>
         <translation>Помилка правопису:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1918"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1991"/>
         <source>Background:</source>
         <translation>Тло:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1933"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2006"/>
         <source>Paragraphs</source>
         <translation>Абзаци</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2004"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2077"/>
         <source>Line spacing:</source>
         <translation>Міжрядковий інтервал:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2005"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2078"/>
         <source>Single</source>
         <translation>Одинарний</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2006"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2079"/>
         <source>1.5 lines</source>
         <translation>1,5 рядка</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2007"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2080"/>
         <source>Double</source>
         <translation>Подвійний</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2008"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2081"/>
         <source>Proportional</source>
         <translation>Пропорційний</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2009"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2082"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2010"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2083"/>
         <source>Tab width:</source>
         <translation>Ширина табуляції:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2014"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2087"/>
         <source> px</source>
         <translation> пікселів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2015"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2088"/>
         <source>Indent 1st line</source>
         <translation>Відступати 1-й рядок</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2012"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2085"/>
         <source>Spacing:</source>
         <translation>Інтервал:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1965"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2038"/>
         <source>New</source>
         <translation>Новий</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1966"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2039"/>
         <source>Edit</source>
         <translation>Редагувати</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1967"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2040"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1968"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2041"/>
         <source>Theme name:</source>
         <translation>Назва теми:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1969"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2042"/>
         <source>Apply</source>
         <translation>Застосувати</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1970"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2043"/>
         <source>Cancel</source>
         <translation>Відмінити</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1971"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2044"/>
         <source>Window Background</source>
         <translation>Тло вікна</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1972"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2045"/>
         <source>Text Background</source>
         <translation>Тло тексту</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1973"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2046"/>
         <source>Text Options</source>
         <translation>Параметри тексту</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1974"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2047"/>
         <source>Paragraph Options</source>
         <translation>Параметри абзацу</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1977"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2050"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1978"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2051"/>
         <source>No Image</source>
         <translation>Немає зображення</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1979"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2052"/>
         <source>Tiled</source>
         <translation>Заповнити</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1980"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2053"/>
         <source>Centered</source>
         <translation>По центру</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1991"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2064"/>
         <source>Stretched</source>
         <translation>Розтягнутий</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1982"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2055"/>
         <source>Scaled</source>
         <translation>Масштабований</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1983"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2056"/>
         <source>Zoomed</source>
         <translation>Збільшений</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1985"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2058"/>
         <source>Opacity:</source>
         <translation>Прозорість:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1987"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2060"/>
         <source>Position:</source>
         <translation>Позиція:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2016"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2089"/>
         <source>Left</source>
         <translation>Ліворуч</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2017"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2090"/>
         <source>Center</source>
-        <translation>По центру</translation>
+        <translation>Центр</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2018"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2091"/>
         <source>Right</source>
         <translation>Праворуч</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1992"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2065"/>
         <source>Width:</source>
         <translation>Ширина:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1995"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2068"/>
         <source>Corner radius:</source>
         <translation>Радіус кута:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1996"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2069"/>
         <source>Margins:</source>
         <translation>Поля:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1998"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2071"/>
         <source>Padding:</source>
         <translation>Відступ:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2001"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2074"/>
         <source>Font:</source>
         <translation>Шрифт:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1882"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2094"/>
         <source>Style</source>
         <translation>Стиль</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1951"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2024"/>
         <source>Cursor</source>
         <translation>Курсор</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1952"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2025"/>
         <source>Use block insertion of</source>
         <translation>Блочна вставка</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1934"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2007"/>
         <source>Alignment:</source>
         <translation>Вирівнювання:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2019"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2092"/>
         <source>Justify</source>
         <translation>По ширині</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2020"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2093"/>
         <source>Alignment</source>
         <translation>Вирівнювання</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1832"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1905"/>
         <source>Icon Size</source>
         <translation>Розмір іконки</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1833"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1906"/>
         <source>TextLabel</source>
         <translation>Текстова позначка</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1954"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2027"/>
         <source>Disable blinking</source>
         <translation>Вимкнути блимання</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1926"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1999"/>
         <source>Text area</source>
         <translation>Текстова область</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1927"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2000"/>
         <source>Max width</source>
         <translation>Максимальна ширина</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1929"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2002"/>
         <source>Left/Right margins:</source>
         <translation>Праве/ліве поля:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1931"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2004"/>
         <source>Top/Bottom margins:</source>
         <translation>Верхнє/нижнє поля:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1840"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1913"/>
         <source>S&amp;how progress</source>
         <translation>Показати п&amp;рогрес</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1841"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1914"/>
         <source>Show summar&amp;y</source>
         <translation>Показати &amp;опис</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1846"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1919"/>
         <source>Show p&amp;rogress</source>
         <translation>По&amp;казати прогрес</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1883"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1956"/>
         <source>Old st&amp;yle</source>
         <translation>Старий &amp;стиль</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1919"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1992"/>
         <source>Transparent</source>
         <translation>Прозоре</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1921"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1994"/>
         <source>Restore defaults</source>
         <translation>Відновити стандартні</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1785"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1858"/>
         <source>Style:</source>
         <translation>Стиль:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1786"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1859"/>
         <source>Language:</source>
         <translation>Мова:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1787"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1860"/>
         <source>Font size:</source>
         <translation>Розмір шрифту:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1784"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1857"/>
         <source>Restarting Manuskript ensures all settings take effect.</source>
         <translation>Перезапуск Манускрипта застосує всі налаштування.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1838"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1911"/>
         <source>Show &amp;word count</source>
         <translation>Показати кількість &amp;слів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1844"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1917"/>
         <source>&amp;Show word count</source>
         <translation>&amp;Показати кількість слів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1884"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1957"/>
         <source>&amp;New style</source>
         <translation>&amp;Новий стиль</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1955"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2028"/>
         <source>Typewriter mode</source>
         <translation>Режим друкарської машинки</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1956"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2029"/>
         <source>Focus mode</source>
         <translation>Режим концентрації</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1957"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2030"/>
         <source>None</source>
         <translation>Немає</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1958"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2031"/>
         <source>Sentence</source>
         <translation>Речення</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1959"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2032"/>
         <source>Line</source>
         <translation>Рядок</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1960"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2033"/>
         <source>Paragraph</source>
         <translation>Абзац</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1811"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1884"/>
         <source>&lt;p&gt;&lt;b&gt;The Revisions feature has been at the source of many reported issues. In this version of Manuskript it has been turned off by default for new projects in order to provide the best experience.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Why aren&apos;t these issues fixed already? &lt;a href=&quot;https://www.theologeek.ch/manuskript/contribute/&quot;&gt;We need your help to make Manuskript better!&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;Функція «Ревізії» є джерелом багатьох повідомлень про проблеми. У цій версії Манускрипта її за замовчуванням вимкнено для нових проєктів, щоб забезпечити найкращий досвід.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Чому ці проблеми ще не вирішено? &lt;a href=&quot;https://www.theologeek.ch/manuskript/contribute/&quot;&gt;Нам потрібна ваша допомога, щоб покращити Манускрипт!&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1788"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1861"/>
         <source>Show progress in chars next
  to words</source>
         <translation>Показувати прогрес у знаках
  поруч із прогресом у словах</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1834"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1907"/>
         <source>Char/Word Counter</source>
         <translation>Лічильник знаків/слів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1835"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1908"/>
         <source>Count spaces as chars</source>
         <translation>Рахувати пробіли як знаки</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1839"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1912"/>
         <source>Show char c&amp;ount</source>
         <translation>Показати кількість &amp;знаків</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1845"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1918"/>
         <source>Sho&amp;w char count</source>
         <translation>Показати кількість &amp;знаків</translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/settings_ui.py" line="2095"/>
+        <source>Tooltips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/settings_ui.py" line="2096"/>
+        <source>Use system defaults</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SpellAction</name>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="611"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="622"/>
         <source>Spelling Suggestions</source>
         <translation>Пропозиції щодо правопису</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="630"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="641"/>
         <source>&amp;Add to dictionary</source>
         <translation>&amp;Додати у словник</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="683"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="694"/>
         <source>&amp;Remove from custom dictionary</source>
         <translation>&amp;Вилучити з користувальницького словника</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="538"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="549"/>
         <source>&amp;New Character</source>
         <translation>&amp;Новий персонаж</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="545"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="556"/>
         <source>&amp;New Plot Item</source>
         <translation>Новий сюжетний елемен&amp;т</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="552"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="563"/>
         <source>&amp;New World Item</source>
         <translation>Новий елемен&amp;т світу</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="654"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="665"/>
         <source>&amp;Correction Suggestions</source>
         <translation>Пропозиції щодо &amp;корекції</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="663"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="674"/>
         <source>&amp;Correction Suggestion</source>
         <translation>Пропозиція щодо к&amp;орекції</translation>
     </message>
@@ -1967,6 +2020,24 @@
         <location filename="../manuskript/ui/views/basicItemView_ui.py" line="70"/>
         <source>Few sentences summary:</source>
         <translation>Опис у декілька речень:</translation>
+    </message>
+</context>
+<context>
+    <name>characterInfoDialog</name>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="94"/>
+        <source>Add Character Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="95"/>
+        <source>Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="96"/>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2134,22 +2205,22 @@
 <context>
     <name>dlg</name>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="435"/>
+        <location filename="../manuskript/load_save/version_1.py" line="436"/>
         <source>Files not saved</source>
         <translation>Файли не збережено</translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="436"/>
+        <location filename="../manuskript/load_save/version_1.py" line="437"/>
         <source>The following files were not saved and appear to be open in another program</source>
         <translation>Наступні файли не збережено, бо вони відкриті в іншій програмі</translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="928"/>
+        <location filename="../manuskript/load_save/version_1.py" line="933"/>
         <source>Files not loaded</source>
         <translation>Файли не завантажено</translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="929"/>
+        <location filename="../manuskript/load_save/version_1.py" line="934"/>
         <source>The following files were not loaded and appear to be open in another program</source>
         <translation>Наступні файли не завантажено, бо вони відкриті в іншій програмі</translation>
     </message>
@@ -2718,32 +2789,32 @@
         <translation>Alt+Вгору</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="259"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="258"/>
         <source>Root</source>
         <translation>Корінь</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="366"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="397"/>
         <source>{} words </source>
         <translation>{} слів </translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="347"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="378"/>
         <source>({} chars) {}  words / {} </source>
         <translation>({} знаків)  {} слів / {} </translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="353"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="384"/>
         <source>{}  words / {} </source>
         <translation>{}  слів / {} </translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="368"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="399"/>
         <source>{} chars</source>
         <translation>{} знаків</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="362"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="393"/>
         <source>{} chars </source>
         <translation>{} знаків </translation>
     </message>
@@ -2886,7 +2957,7 @@
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешение</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
@@ -3041,37 +3112,37 @@
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Hook</source>
-        <translation type="unfinished"></translation>
+        <translation>Завязка</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Plot Turn 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот 1</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Pinch 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Разворот 1</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Midpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Центральный момент</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Pinch 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Разворот 2</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Plot Turn 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот 2</translation>
     </message>
     <message>
         <location filename="../manuskript/ui/views/plotDelegate.py" line="33"/>
         <source>Dan Wells 7-point plot format</source>
-        <translation type="unfinished"></translation>
+        <translation>Семиактная структура Дэна Уэллса</translation>
     </message>
 </context>
 <context>
@@ -3323,56 +3394,56 @@
 <context>
     <name>settingsWindow</name>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="674"/>
+        <location filename="../manuskript/settingsWindow.py" line="688"/>
         <source>New status</source>
         <translation>Новий стан</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="695"/>
+        <location filename="../manuskript/settingsWindow.py" line="709"/>
         <source>New label</source>
         <translation>Нова позначка</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="731"/>
+        <location filename="../manuskript/settingsWindow.py" line="745"/>
         <source>newtheme</source>
         <translation>новатема</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="741"/>
+        <location filename="../manuskript/settingsWindow.py" line="755"/>
         <source>New theme</source>
         <translation>Нова тема</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="773"/>
+        <location filename="../manuskript/settingsWindow.py" line="787"/>
         <source> (read-only)</source>
         <translation> (лише для читання)</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="534"/>
+        <location filename="../manuskript/settingsWindow.py" line="548"/>
         <source>Open Image</source>
         <translation>Відкрити зображення</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="534"/>
-        <source>Image files (*.jpg; *.jpeg; *.png)</source>
-        <translation>Файли зображень (*.jpg; *.jpeg; *.png)</translation>
-    </message>
-    <message>
-        <location filename="../manuskript/settingsWindow.py" line="550"/>
+        <location filename="../manuskript/settingsWindow.py" line="564"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="547"/>
+        <location filename="../manuskript/settingsWindow.py" line="561"/>
         <source>Unable to load selected file</source>
         <translation>Не вдалося завантажити вибраний файл</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="550"/>
+        <location filename="../manuskript/settingsWindow.py" line="564"/>
         <source>Unable to add selected image:
 {}</source>
         <translation>Не вдалося додати вибране зображення:
 {}</translation>
+    </message>
+    <message>
+        <location filename="../manuskript/settingsWindow.py" line="548"/>
+        <source>Image files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3452,7 +3523,7 @@
 <context>
     <name>storylineView</name>
     <message>
-        <location filename="../manuskript/ui/views/storylineView_ui.py" line="56"/>
+        <location filename="../manuskript/ui/views/storylineView_ui.py" line="58"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
@@ -3493,47 +3564,47 @@
 <context>
     <name>targets</name>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="128"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="131"/>
         <source>Project Targets</source>
         <translation>Цілі проєкту</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="129"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="132"/>
         <source>Draft Target</source>
         <translation>Ціль чернетки</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="136"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="139"/>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="137"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="140"/>
         <source>of</source>
         <translation>з</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="132"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="135"/>
         <source>10,000</source>
         <translation>10 000</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="133"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="136"/>
         <source>Words</source>
         <translation>Слова</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="134"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="137"/>
         <source>Session Target</source>
         <translation>Ціль сесії</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="135"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="138"/>
         <source>Reset</source>
         <translation>Скинути</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="138"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="141"/>
         <source>words</source>
         <translation>слів</translation>
     </message>
@@ -3541,7 +3612,7 @@
 <context>
     <name>textEditView</name>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="324"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="334"/>
         <source>Various</source>
         <translation>Різноманітні</translation>
     </message>
@@ -3549,7 +3620,7 @@
 <context>
     <name>textFormat</name>
     <message>
-        <location filename="../manuskript/ui/editors/textFormat_ui.py" line="88"/>
+        <location filename="../manuskript/ui/editors/textFormat_ui.py" line="90"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
@@ -3620,22 +3691,22 @@
 <context>
     <name>welcome</name>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="124"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="126"/>
         <source>Form</source>
         <translation>Форма</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="125"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="127"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="128"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="130"/>
         <source>Templates</source>
         <translation>Шаблони</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="129"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="131"/>
         <source>Empty</source>
         <translation>Пустий</translation>
     </message>
@@ -3665,32 +3736,32 @@
         <translation>Демо проєкти</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="136"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="138"/>
         <source>Add level</source>
         <translation>Додати рівень</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="137"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="139"/>
         <source>Add word count</source>
         <translation>Додати кількість слів</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="138"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="140"/>
         <source>Next time, automatically open last project</source>
         <translation>Наступного разу автоматично відкрити останній проєкт</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="139"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="141"/>
         <source>Open...</source>
         <translation>Відкрити...</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="140"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="142"/>
         <source>Recent</source>
         <translation>Останні</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="141"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="143"/>
         <source>Create</source>
         <translation>Створити</translation>
     </message>

@@ -1,55 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu">
+<TS version="2.1" language="hu_HU">
+<context>
+    <name>BulkInfoManager</name>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="69"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="70"/>
+        <source>Affected Characters:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="71"/>
+        <source>NONE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="72"/>
+        <source>Add entry to the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="73"/>
+        <source>Remove entry from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="74"/>
+        <source>Adds all items to the selected characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="75"/>
+        <source>Apply Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 <context>
     <name>ExportersManager</name>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="162"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="165"/>
         <source>Manage Exporters</source>
         <translation>Exportálók Kezelése</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="166"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="169"/>
         <source>Manuskript</source>
         <translation>Manuskript</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="168"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="171"/>
         <source>Description</source>
         <translation>Leírás</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="169"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="172"/>
         <source>Offers export to</source>
         <translation>Exportálási lehetősége biztosít erre</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="170"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="173"/>
         <source>Status</source>
         <translation>Státusz</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="171"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="174"/>
         <source>Status:</source>
         <translation>Státusz:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="172"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="175"/>
         <source>Version:</source>
         <translation>Verzió:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="173"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="176"/>
         <source>Path:</source>
         <translation>Elérési út:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="174"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="177"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="175"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="178"/>
         <source>{HelpText}</source>
         <translation>{HelpText}</translation>
     </message>
@@ -57,47 +95,47 @@
 <context>
     <name>FrequencyAnalyzer</name>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="103"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="107"/>
         <source>Frequency Analyzer</source>
         <translation>Gyakoriság Elemző</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="108"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="112"/>
         <source>Word frequency</source>
         <translation>Szó gyakoriság</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="104"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="108"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="105"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="109"/>
         <source>Minimum size:</source>
         <translation>Minimum méret:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="106"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="110"/>
         <source>Exclude words (comma separated):</source>
         <translation>Szavak kizárása (vesszővel elválasztva):</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="111"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="115"/>
         <source>Analyze</source>
         <translation>Elemzés</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="112"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="116"/>
         <source>Phrase frequency</source>
         <translation>Kifejezés gyakoriság</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="109"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="113"/>
         <source>Number of words: from</source>
         <translation>Szavak száma: ebből</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="110"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="114"/>
         <source>to</source>
         <translation>to</translation>
     </message>
@@ -552,17 +590,17 @@
         <translation>A Manuskript -ről</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1084"/>
+        <location filename="../manuskript/mainWindow.py" line="1085"/>
         <source>Manuskript</source>
         <translation>Manuskript</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1216"/>
+        <location filename="../manuskript/mainWindow.py" line="1217"/>
         <source>Project {} saved.</source>
         <translation>{} projekt mentve.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1220"/>
+        <location filename="../manuskript/mainWindow.py" line="1221"/>
         <source>WARNING: Project {} not saved.</source>
         <translation>FIGYELEM: {} projekt nem került mentésre.</translation>
     </message>
@@ -577,151 +615,151 @@
         <translation>{} projekt betöltve, hibákkal.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1613"/>
+        <location filename="../manuskript/mainWindow.py" line="1622"/>
         <source> (~{} pages)</source>
         <translation> (~{} oldal)</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1616"/>
+        <location filename="../manuskript/mainWindow.py" line="1625"/>
         <source>Words: {}{}</source>
         <translation>Szó: {}{}</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1624"/>
+        <location filename="../manuskript/mainWindow.py" line="1633"/>
         <source>Book summary</source>
         <translation>Könyv összefoglalása</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1625"/>
+        <location filename="../manuskript/mainWindow.py" line="1634"/>
         <source>Project tree</source>
         <translation>Projektfa</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1626"/>
+        <location filename="../manuskript/mainWindow.py" line="1635"/>
         <source>Metadata</source>
         <translation>Metaadat</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1627"/>
+        <location filename="../manuskript/mainWindow.py" line="1636"/>
         <source>Story line</source>
         <translation>Történetív</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1692"/>
+        <location filename="../manuskript/mainWindow.py" line="1701"/>
         <source>Enter information about your book, and yourself.</source>
         <translation>Adjon meg információt a könyvéről és önmagáról.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1695"/>
+        <location filename="../manuskript/mainWindow.py" line="1704"/>
         <source>The basic situation, in the form of a &apos;What if...?&apos; question. Ex: &apos;What if the most dangerous
                      evil wizard wasn&apos;t able to kill a baby?&apos; (Harry Potter)</source>
         <translation>Az alapszituáció 'Mi lenne ha...?' kérdésként feltéve. Pl.. 'Mi lenne ha a legveszélyesebb
 '                     gonosz varázsló ne lenne képes megölni egy csecsemőt?' (Harry Potter)</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1700"/>
+        <location filename="../manuskript/mainWindow.py" line="1709"/>
         <source>Take time to think about a one sentence (~50 words) summary of your book. Then expand it to
                      a paragraph, then to a page, then to a full summary.</source>
         <translation>Szánjon rá időt, hogy elgondolkodjon a könyve egymondatos (-50 szavas) összefoglalóján. Aztán bővítse ki
                      egy bekezdéssé, majd egy oldallá, majd egy teljes összefoglalóvá.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1705"/>
+        <location filename="../manuskript/mainWindow.py" line="1714"/>
         <source>Create your characters.</source>
         <translation>Alkossa meg a szereplőit.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1708"/>
+        <location filename="../manuskript/mainWindow.py" line="1717"/>
         <source>Develop plots.</source>
         <translation>Cselekmények kidolgozása.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1711"/>
+        <location filename="../manuskript/mainWindow.py" line="1720"/>
         <source>Build worlds.  Create hierarchy of broad categories down to specific details.</source>
         <translation>Építsen világokat.  Készítse el az átfogó kategóriák (és az specifikus részleteinek) hierarchiáját.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1714"/>
+        <location filename="../manuskript/mainWindow.py" line="1723"/>
         <source>Create the outline of your masterpiece.</source>
         <translation>Készítse el a mesterműve áttekintését.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1717"/>
+        <location filename="../manuskript/mainWindow.py" line="1726"/>
         <source>Write.</source>
         <translation>Írjon.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1720"/>
+        <location filename="../manuskript/mainWindow.py" line="1729"/>
         <source>Debug info. Sometimes useful.</source>
         <translation>Hibakeresési információ. Valami hasznos.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1734"/>
+        <location filename="../manuskript/mainWindow.py" line="1743"/>
         <source>Dictionary</source>
         <translation>Szótár</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1882"/>
+        <location filename="../manuskript/mainWindow.py" line="1891"/>
         <source>Nothing</source>
         <translation>Semmi</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1883"/>
+        <location filename="../manuskript/mainWindow.py" line="1892"/>
         <source>POV</source>
         <translation>Szempont</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1884"/>
+        <location filename="../manuskript/mainWindow.py" line="1893"/>
         <source>Label</source>
         <translation>Címke</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1885"/>
+        <location filename="../manuskript/mainWindow.py" line="1894"/>
         <source>Progress</source>
         <translation>Előrehaladás</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1886"/>
+        <location filename="../manuskript/mainWindow.py" line="1895"/>
         <source>Compile</source>
         <translation>Összeállítás</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1909"/>
+        <location filename="../manuskript/mainWindow.py" line="1918"/>
         <source>Icon color</source>
         <translation>Ikonszín</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1910"/>
+        <location filename="../manuskript/mainWindow.py" line="1919"/>
         <source>Text color</source>
         <translation>Szövegszín</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1911"/>
+        <location filename="../manuskript/mainWindow.py" line="1920"/>
         <source>Background color</source>
         <translation>Háttérszín</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1902"/>
+        <location filename="../manuskript/mainWindow.py" line="1911"/>
         <source>Icon</source>
         <translation>Ikon</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1903"/>
+        <location filename="../manuskript/mainWindow.py" line="1912"/>
         <source>Text</source>
         <translation>Szöveg</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1904"/>
+        <location filename="../manuskript/mainWindow.py" line="1913"/>
         <source>Background</source>
         <translation>Háttér</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1905"/>
+        <location filename="../manuskript/mainWindow.py" line="1914"/>
         <source>Border</source>
         <translation>Szegély</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1906"/>
+        <location filename="../manuskript/mainWindow.py" line="1915"/>
         <source>Corner</source>
         <translation>Sarok</translation>
     </message>
@@ -911,52 +949,52 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="925"/>
+        <location filename="../manuskript/mainWindow.py" line="923"/>
         <source>The file {} does not exist. Has it been moved or deleted?</source>
         <translation>A {} fálj nem létezik. Esetleg át lett helyezve, vagy törlődött?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1748"/>
+        <location filename="../manuskript/mainWindow.py" line="1757"/>
         <source>Install {}{} to use spellcheck</source>
         <translation>Helyezzen be {]{}-t a nyelvtani helyesíró használatához</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1790"/>
+        <location filename="../manuskript/mainWindow.py" line="1799"/>
         <source>{} has no installed dictionaries</source>
         <translation>{}-nek nincsen telepített szótára</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1811"/>
+        <location filename="../manuskript/mainWindow.py" line="1820"/>
         <source>{}{} is not installed</source>
         <translation>A {}{} nincs telepítve</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Save project?</source>
         <translation>Elmenti a munkát?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Save changes to project &quot;{}&quot; before closing?</source>
         <translation>Elmenti a változtatásokat a &quot;{}&quot; munkához, mielőtt bezárja?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Your changes will be lost if you don&apos;t save them.</source>
         <translation>A változtatásai elvesznek, ha nem menti azokat.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2009"/>
+        <location filename="../manuskript/mainWindow.py" line="2018"/>
         <source>PyQt / Qt versions 5.11 and 5.12 are known to cause a crash which might result in a loss of data.</source>
         <translation>A PyQt/Qt 5.11-es és 5.12-es verziói összeomlást okozhatnak, amely az adatok elvesztéséhez vezethet.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2010"/>
+        <location filename="../manuskript/mainWindow.py" line="2019"/>
         <source>PyQt {} and Qt {} are in use.</source>
         <translation>A PyQt {} és a Qt {} használatban vannak.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2016"/>
+        <location filename="../manuskript/mainWindow.py" line="2025"/>
         <source>Proceed with import at your own risk</source>
         <translation>Saját kockázatra folytassa az importálást</translation>
     </message>
@@ -1016,37 +1054,37 @@
         <translation>Ehhez a munkamenethez haszbált diagnosztikai naplófájl meghatározása.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1548"/>
+        <location filename="../manuskript/mainWindow.py" line="1557"/>
         <source>Sorry!</source>
         <translation>Elnézést!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1548"/>
+        <location filename="../manuskript/mainWindow.py" line="1557"/>
         <source>This session is not being logged.</source>
         <translation>Ez a munkamenet nem töltődik be.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>A log file is a Work in Progress!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>The log file &quot;{}&quot; will continue to be written to until Manuskript is closed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>It will now be displayed in your file manager, but is of limited use until you close Manuskript.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1573"/>
+        <location filename="../manuskript/mainWindow.py" line="1582"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1573"/>
+        <location filename="../manuskript/mainWindow.py" line="1582"/>
         <source>An error was encountered while trying to show the log file below in your file manager.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1061,42 +1099,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="387"/>
+        <location filename="../manuskript/mainWindow.py" line="385"/>
         <source>Value</source>
         <translation type="unfinished">Érték</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="395"/>
+        <location filename="../manuskript/mainWindow.py" line="393"/>
         <source>Bulk Info Manager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="440"/>
+        <location filename="../manuskript/mainWindow.py" line="438"/>
         <source>No Entries!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="440"/>
+        <location filename="../manuskript/mainWindow.py" line="438"/>
         <source>Please add entries to apply to the selected characters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="451"/>
+        <location filename="../manuskript/mainWindow.py" line="449"/>
         <source>Bulk Info Applied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="451"/>
+        <location filename="../manuskript/mainWindow.py" line="449"/>
         <source>The bulk info has been applied to the selected characters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="523"/>
+        <location filename="../manuskript/mainWindow.py" line="521"/>
         <source>Un-applied data!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="523"/>
+        <location filename="../manuskript/mainWindow.py" line="521"/>
         <source>There are un-applied entries in this tab. Discard them?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1115,6 +1153,11 @@
         <source>Go &amp;forward</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../manuskript/mainWindow.py" line="1251"/>
+        <source>Loading project {} failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Search</name>
@@ -1127,746 +1170,756 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1766"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1837"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1770"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1841"/>
         <source>General</source>
         <translation>Általános</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1800"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1873"/>
         <source>Revisions</source>
         <translation>Felülvizsgálatok</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1774"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1845"/>
         <source>Views</source>
         <translation>Nézetek</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1962"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2035"/>
         <source>Labels</source>
         <translation>Címkék</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1963"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2036"/>
         <source>Status</source>
         <translation>Státusz</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1964"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2037"/>
         <source>Fullscreen</source>
         <translation>Teljes képernyő</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1782"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1855"/>
         <source>General settings</source>
         <translation>Általános beállítások</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1783"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1856"/>
         <source>Application settings</source>
         <translation type="unfinished">Alkalmazás stílusa</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1790"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1863"/>
         <source>Loading</source>
         <translation>Betöltés</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1791"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1864"/>
         <source>Automatically load last project on startup</source>
         <translation>Automatikusan töltse be a legutóbbi projektet induláskor</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1792"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1865"/>
         <source>Saving</source>
         <translation>Mentés</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1793"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1866"/>
         <source>Automatically save every</source>
         <translation>Automatikusan mentsen minden</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1794"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1867"/>
         <source>minutes.</source>
         <translation>percben.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1795"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1868"/>
         <source>If no changes during</source>
         <translation>Ha nem történik változás</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1796"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1869"/>
         <source>seconds.</source>
         <translation>másodpercig.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1797"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1870"/>
         <source>Save on project close</source>
         <translation type="unfinished">Mentés kilépéskor</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1798"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1871"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If you check this option, your project will be saved as one single file. Easier to copy or backup, but does not allow collaborative editing, or versioning.&lt;br/&gt;If this is unchecked, your project will be saved as a folder containing many small files.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ha ezt a lehetőséget bejelöli, a projektje egyetlen fájlként kerül mentésre. Így egyszerűbb másolni vagy biztonsági mentést készíteni róla, de elesik a csapatmunka és a verziókezelés lehetőségétől.&lt;br/&gt;Amennyiben nincs bejelölve, a projektje mappaként kerül mentésre, amely sok kis fáljt tartalmaz&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1799"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1872"/>
         <source>Save to one single file</source>
         <translation>Mentés egyetlen fájlba</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1801"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1874"/>
         <source>Revisions are a way to keep track of modifications. For each text item, it stores any changes you make to the main text, allowing you to see and restoring previous versions.</source>
         <translation>A felülvizsgálatok használata egy módszer a módosítások követésére. Minden szöveges elem számára tartalmazza annak minden módosulatát, lehetővé téve, hogy megtekintse és visszaállítsa az előző verziókat.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1802"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1875"/>
         <source>Keep revisions</source>
         <translation>Felülvizsgálatok megtartása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1803"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1876"/>
         <source>S&amp;mart remove</source>
         <translation>&amp;Intelligens eltávolítás</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1804"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1877"/>
         <source>Keep:</source>
         <translation>Megtartás:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1805"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1878"/>
         <source>Smart remove allows you to keep only a certain number of revisions. It is strongly recommended to use it, lest your files would be bloated with thousands of insignificant changes.</source>
         <translation>Az intelligens eltávolítás lehetővé teszi, hogy csak bizonyos számú felülvizsgálatot tartson meg. Használata erősen javasolt, ellenkező esetben a fájlja tele lesz jelentéktelen módosítások ezreivel.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1806"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1879"/>
         <source>revisions per day for the last month</source>
         <translation>felülvizsgálat naponta, a múlt hónapban</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1807"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1880"/>
         <source>revisions per minute for the last 10 minutes</source>
         <translation>felülvizsgálat percenként, az elmúlt 10 percben</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1808"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1881"/>
         <source>revisions per hour for the last day</source>
         <translation>felülvizsgálat óránként a legutóbbi napra</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1809"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1882"/>
         <source>revisions per 10 minutes for the last hour</source>
         <translation>felülvizsgálat 10 percenként,  az utóbbi egy órában</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1810"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1883"/>
         <source>revisions per week till the end of time</source>
         <translation>felülvizsgálat hetente, valaha</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1812"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1885"/>
         <source>Views settings</source>
         <translation>Beállítások megtekintése</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1849"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1922"/>
         <source>Tree</source>
         <translation>Fa</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1917"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1990"/>
         <source>Colors</source>
         <translation>Színek</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1886"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1959"/>
         <source>Icon color:</source>
         <translation>Ikon színe:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1911"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1984"/>
         <source>Nothing</source>
         <translation>Semmi</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1912"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1985"/>
         <source>POV</source>
         <translation>Szempont</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1913"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1986"/>
         <source>Label</source>
         <translation>Címke</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1914"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1987"/>
         <source>Progress</source>
         <translation>Előrehaladás</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1915"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1988"/>
         <source>Compile</source>
         <translation>Összeállítás</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1892"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2097"/>
         <source>Text color:</source>
         <translation>Szövegszín:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1898"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2098"/>
         <source>Background color:</source>
         <translation>Háttérszín:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1836"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1909"/>
         <source>Folders</source>
         <translation>Mappák</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1837"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1910"/>
         <source>Show ite&amp;m count</source>
         <translation>Ele&amp;mszám mutatása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1847"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1920"/>
         <source>Show summary</source>
         <translation>Összefoglaló mutatása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1842"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1915"/>
         <source>&amp;Nothing</source>
         <translation>&amp;Semmi</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1843"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1916"/>
         <source>Text</source>
         <translation>Szöveg</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1878"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1951"/>
         <source>Outline</source>
         <translation>Körvonal</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1869"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1942"/>
         <source>Visible columns</source>
         <translation>Látható oszlopok</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1870"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1943"/>
         <source>Goal</source>
         <translation>Cél</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1871"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1944"/>
         <source>Word count</source>
         <translation>Szószám</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1872"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1945"/>
         <source>Percentage</source>
         <translation>Százalék</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1877"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1950"/>
         <source>Title</source>
         <translation>Cím</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1916"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1989"/>
         <source>Index cards</source>
         <translation>Kartotéklapok</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1885"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1958"/>
         <source>Item colors</source>
         <translation>Elemszínek</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1904"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2099"/>
         <source>Border color:</source>
         <translation>Szegélyszín:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1910"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1983"/>
         <source>Corner color:</source>
         <translation>Sarokszín:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1879"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1952"/>
         <source>Background</source>
         <translation>Háttér</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2000"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2073"/>
         <source>Color:</source>
         <translation>Szín:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1976"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2049"/>
         <source>Image:</source>
         <translation>Kép:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1961"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2034"/>
         <source>Text editor</source>
         <translation>Szövegszerkesztő</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1922"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1995"/>
         <source>Font</source>
         <translation>Betűtípus</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1923"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1996"/>
         <source>Family:</source>
         <translation>Család:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2002"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2075"/>
         <source>Size:</source>
         <translation>Méret:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2003"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2076"/>
         <source>Misspelled:</source>
         <translation>Elírt:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1918"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1991"/>
         <source>Background:</source>
         <translation>Háttér:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1933"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2006"/>
         <source>Paragraphs</source>
         <translation>Bekezdések</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2004"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2077"/>
         <source>Line spacing:</source>
         <translation>Vonaltávolság:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2005"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2078"/>
         <source>Single</source>
         <translation>Egyes</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2006"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2079"/>
         <source>1.5 lines</source>
         <translation>1.5 sor</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2007"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2080"/>
         <source>Double</source>
         <translation>Dupla</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2008"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2081"/>
         <source>Proportional</source>
         <translation>Arányos</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2009"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2082"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2010"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2083"/>
         <source>Tab width:</source>
         <translation>Tabulátorszélesség:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2014"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2087"/>
         <source> px</source>
         <translation> :px</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2015"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2088"/>
         <source>Indent 1st line</source>
         <translation>Első sor behúzása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2012"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2085"/>
         <source>Spacing:</source>
         <translation>Szóközölés:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1965"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2038"/>
         <source>New</source>
         <translation>Új</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1966"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2039"/>
         <source>Edit</source>
         <translation>Szerkesztés</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1967"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2040"/>
         <source>Delete</source>
         <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1968"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2041"/>
         <source>Theme name:</source>
         <translation>Témanév:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1969"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2042"/>
         <source>Apply</source>
         <translation>Elfogadás</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1970"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2043"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1971"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2044"/>
         <source>Window Background</source>
         <translation>Ablakháttér</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1972"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2045"/>
         <source>Text Background</source>
         <translation>Szövegháttér</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1973"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2046"/>
         <source>Text Options</source>
         <translation>Szövegbeállítások</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1974"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2047"/>
         <source>Paragraph Options</source>
         <translation>Bekezdés Beállítások</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1977"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2050"/>
         <source>Type:</source>
         <translation>Típus:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1978"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2051"/>
         <source>No Image</source>
         <translation>Nincs Kép</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1979"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2052"/>
         <source>Tiled</source>
         <translation>Csempék</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1980"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2053"/>
         <source>Centered</source>
         <translation>Középrezárt</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1991"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2064"/>
         <source>Stretched</source>
         <translation>Kinyújtott</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1982"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2055"/>
         <source>Scaled</source>
         <translation>Skálázott</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1983"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2056"/>
         <source>Zoomed</source>
         <translation>Nagyított</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1985"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2058"/>
         <source>Opacity:</source>
         <translation>Telítettség:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1987"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2060"/>
         <source>Position:</source>
         <translation>Pozíció:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2016"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2089"/>
         <source>Left</source>
         <translation>Bal</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2017"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2090"/>
         <source>Center</source>
         <translation>Közép</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2018"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2091"/>
         <source>Right</source>
         <translation>Jobb</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1992"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2065"/>
         <source>Width:</source>
         <translation>Szélesség:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1995"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2068"/>
         <source>Corner radius:</source>
         <translation>Sarok rádiusza:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1996"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2069"/>
         <source>Margins:</source>
         <translation>Margók:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1998"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2071"/>
         <source>Padding:</source>
         <translation>Párnázottság:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2001"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2074"/>
         <source>Font:</source>
         <translation>Betű:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1882"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2094"/>
         <source>Style</source>
         <translation>Stílus</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1951"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2024"/>
         <source>Cursor</source>
         <translation>Kurzor</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1952"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2025"/>
         <source>Use block insertion of</source>
         <translation>Blokkbeillesztés használata</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1934"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2007"/>
         <source>Alignment:</source>
         <translation>Elrendezés:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2019"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2092"/>
         <source>Justify</source>
         <translation>Kiegyenlítés</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2020"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2093"/>
         <source>Alignment</source>
         <translation>Elrendezés</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1832"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1905"/>
         <source>Icon Size</source>
         <translation>Ikonméret</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1833"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1906"/>
         <source>TextLabel</source>
         <translation>SzövegCímke</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1954"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2027"/>
         <source>Disable blinking</source>
         <translation>Villogás letiltása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1926"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1999"/>
         <source>Text area</source>
         <translation>Szövegterület</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1927"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2000"/>
         <source>Max width</source>
         <translation>Max távolság</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1929"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2002"/>
         <source>Left/Right margins:</source>
         <translation>Bal/Jobb margók:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1931"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2004"/>
         <source>Top/Bottom margins:</source>
         <translation>Felső/Alsó margók:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1840"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1913"/>
         <source>S&amp;how progress</source>
         <translation>Előrehaladás &amp;mutatása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1841"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1914"/>
         <source>Show summar&amp;y</source>
         <translation>&amp;Összegzés mutatása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1846"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1919"/>
         <source>Show p&amp;rogress</source>
         <translation>&amp;Előrehaladás mutatása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1883"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1956"/>
         <source>Old st&amp;yle</source>
         <translation>Régi &amp;stílus</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1919"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1992"/>
         <source>Transparent</source>
         <translation>Átlátszó</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1921"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1994"/>
         <source>Restore defaults</source>
         <translation>Alapértelmezés visszaállítása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1785"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1858"/>
         <source>Style:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1786"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1859"/>
         <source>Language:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1787"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1860"/>
         <source>Font size:</source>
         <translation type="unfinished">Betűméret:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1784"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1857"/>
         <source>Restarting Manuskript ensures all settings take effect.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1838"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1911"/>
         <source>Show &amp;word count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1844"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1917"/>
         <source>&amp;Show word count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1884"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1957"/>
         <source>&amp;New style</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1955"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2028"/>
         <source>Typewriter mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1956"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2029"/>
         <source>Focus mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1957"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2030"/>
         <source>None</source>
         <translation type="unfinished">Egyik sem</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1958"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2031"/>
         <source>Sentence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1959"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2032"/>
         <source>Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1960"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2033"/>
         <source>Paragraph</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1811"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1884"/>
         <source>&lt;p&gt;&lt;b&gt;The Revisions feature has been at the source of many reported issues. In this version of Manuskript it has been turned off by default for new projects in order to provide the best experience.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Why aren&apos;t these issues fixed already? &lt;a href=&quot;https://www.theologeek.ch/manuskript/contribute/&quot;&gt;We need your help to make Manuskript better!&lt;/a&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1788"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1861"/>
         <source>Show progress in chars next
  to words</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1834"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1907"/>
         <source>Char/Word Counter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1835"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1908"/>
         <source>Count spaces as chars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1839"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1912"/>
         <source>Show char c&amp;ount</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1845"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1918"/>
         <source>Sho&amp;w char count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/settings_ui.py" line="2095"/>
+        <source>Tooltips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/settings_ui.py" line="2096"/>
+        <source>Use system defaults</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SpellAction</name>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="611"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="622"/>
         <source>Spelling Suggestions</source>
         <translation>Helyesírási javaslatok</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="630"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="641"/>
         <source>&amp;Add to dictionary</source>
         <translation>&amp;Hozzáadás a szótárhoz</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="683"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="694"/>
         <source>&amp;Remove from custom dictionary</source>
         <translation>&amp;Eltávolítás az egyéni szótárból</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="538"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="549"/>
         <source>&amp;New Character</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="545"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="556"/>
         <source>&amp;New Plot Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="552"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="563"/>
         <source>&amp;New World Item</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="654"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="665"/>
         <source>&amp;Correction Suggestions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="663"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="674"/>
         <source>&amp;Correction Suggestion</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1966,6 +2019,24 @@
         <location filename="../manuskript/ui/views/basicItemView_ui.py" line="70"/>
         <source>Few sentences summary:</source>
         <translation>Pár mondatos összefoglaló:</translation>
+    </message>
+</context>
+<context>
+    <name>characterInfoDialog</name>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="94"/>
+        <source>Add Character Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="95"/>
+        <source>Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="96"/>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2133,22 +2204,22 @@
 <context>
     <name>dlg</name>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="435"/>
+        <location filename="../manuskript/load_save/version_1.py" line="436"/>
         <source>Files not saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="436"/>
+        <location filename="../manuskript/load_save/version_1.py" line="437"/>
         <source>The following files were not saved and appear to be open in another program</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="928"/>
+        <location filename="../manuskript/load_save/version_1.py" line="933"/>
         <source>Files not loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="929"/>
+        <location filename="../manuskript/load_save/version_1.py" line="934"/>
         <source>The following files were not loaded and appear to be open in another program</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2717,32 +2788,32 @@
         <translation>Alt+Up</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="259"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="258"/>
         <source>Root</source>
         <translation>Gyökér</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="366"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="397"/>
         <source>{} words </source>
         <translation>{} szó. </translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="347"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="378"/>
         <source>({} chars) {}  words / {} </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="353"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="384"/>
         <source>{}  words / {} </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="368"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="399"/>
         <source>{} chars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="362"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="393"/>
         <source>{} chars </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3322,52 +3393,52 @@
 <context>
     <name>settingsWindow</name>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="674"/>
+        <location filename="../manuskript/settingsWindow.py" line="688"/>
         <source>New status</source>
         <translation>Új státusz</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="695"/>
+        <location filename="../manuskript/settingsWindow.py" line="709"/>
         <source>New label</source>
         <translation>Új címke</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="731"/>
+        <location filename="../manuskript/settingsWindow.py" line="745"/>
         <source>newtheme</source>
         <translation>újtéma</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="741"/>
+        <location filename="../manuskript/settingsWindow.py" line="755"/>
         <source>New theme</source>
         <translation>Új téma</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="773"/>
+        <location filename="../manuskript/settingsWindow.py" line="787"/>
         <source> (read-only)</source>
         <translation> (csak-olvasható)</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="534"/>
+        <location filename="../manuskript/settingsWindow.py" line="548"/>
         <source>Open Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="534"/>
-        <source>Image files (*.jpg; *.jpeg; *.png)</source>
+        <location filename="../manuskript/settingsWindow.py" line="548"/>
+        <source>Image files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="550"/>
+        <location filename="../manuskript/settingsWindow.py" line="564"/>
         <source>Error</source>
         <translation type="unfinished">Hiba</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="547"/>
+        <location filename="../manuskript/settingsWindow.py" line="561"/>
         <source>Unable to load selected file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="550"/>
+        <location filename="../manuskript/settingsWindow.py" line="564"/>
         <source>Unable to add selected image:
 {}</source>
         <translation type="unfinished"></translation>
@@ -3450,7 +3521,7 @@
 <context>
     <name>storylineView</name>
     <message>
-        <location filename="../manuskript/ui/views/storylineView_ui.py" line="56"/>
+        <location filename="../manuskript/ui/views/storylineView_ui.py" line="58"/>
         <source>Form</source>
         <translation>Űrlap</translation>
     </message>
@@ -3491,47 +3562,47 @@
 <context>
     <name>targets</name>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="128"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="131"/>
         <source>Project Targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="129"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="132"/>
         <source>Draft Target</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="136"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="139"/>
         <source>0</source>
         <translation type="unfinished">0</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="137"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="140"/>
         <source>of</source>
         <translation type="unfinished">a</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="132"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="135"/>
         <source>10,000</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="133"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="136"/>
         <source>Words</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="134"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="137"/>
         <source>Session Target</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="135"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="138"/>
         <source>Reset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="138"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="141"/>
         <source>words</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3539,7 +3610,7 @@
 <context>
     <name>textEditView</name>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="324"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="334"/>
         <source>Various</source>
         <translation>Különféle</translation>
     </message>
@@ -3547,7 +3618,7 @@
 <context>
     <name>textFormat</name>
     <message>
-        <location filename="../manuskript/ui/editors/textFormat_ui.py" line="88"/>
+        <location filename="../manuskript/ui/editors/textFormat_ui.py" line="90"/>
         <source>Form</source>
         <translation>Űrlap</translation>
     </message>
@@ -3618,22 +3689,22 @@
 <context>
     <name>welcome</name>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="124"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="126"/>
         <source>Form</source>
         <translation>Űrlap</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="125"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="127"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="128"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="130"/>
         <source>Templates</source>
         <translation>Sablonok</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="129"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="131"/>
         <source>Empty</source>
         <translation>Üres</translation>
     </message>
@@ -3663,32 +3734,32 @@
         <translation>Bemutató projektet</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="136"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="138"/>
         <source>Add level</source>
         <translation>Szint hozzáadása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="137"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="139"/>
         <source>Add word count</source>
         <translation type="unfinished">Szószámlálás hozzáadása</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="138"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="140"/>
         <source>Next time, automatically open last project</source>
         <translation>Legközelebb, automatikusa nyissa meg a legutóbbi projektet</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="139"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="141"/>
         <source>Open...</source>
         <translation>Megnyitás...</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="140"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="142"/>
         <source>Recent</source>
         <translation>Legutóbbi</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="141"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="143"/>
         <source>Create</source>
         <translation>Létrehozás</translation>
     </message>

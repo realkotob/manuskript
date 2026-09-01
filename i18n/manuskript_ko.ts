@@ -1,55 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ko">
+<TS version="2.1" language="ko_KR">
+<context>
+    <name>BulkInfoManager</name>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="69"/>
+        <source>Form</source>
+        <translation type="unfinished">형식</translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="70"/>
+        <source>Affected Characters:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="71"/>
+        <source>NONE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="72"/>
+        <source>Add entry to the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="73"/>
+        <source>Remove entry from the list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="74"/>
+        <source>Adds all items to the selected characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/bulkInfoManager.py" line="75"/>
+        <source>Apply Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 <context>
     <name>ExportersManager</name>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="162"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="165"/>
         <source>Manage Exporters</source>
         <translation>내보내기 관리</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="166"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="169"/>
         <source>Manuskript</source>
         <translation>Manuskript</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="168"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="171"/>
         <source>Description</source>
         <translation>설명</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="169"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="172"/>
         <source>Offers export to</source>
         <translation>제공하는 변환 양식:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="170"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="173"/>
         <source>Status</source>
         <translation>상태</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="171"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="174"/>
         <source>Status:</source>
         <translation>상태:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="172"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="175"/>
         <source>Version:</source>
         <translation>버전:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="173"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="176"/>
         <source>Path:</source>
         <translation>경로:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="174"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="177"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="175"/>
+        <location filename="../manuskript/ui/exporters/exportersManager_ui.py" line="178"/>
         <source>{HelpText}</source>
         <translation>{도움말}</translation>
     </message>
@@ -57,47 +95,47 @@
 <context>
     <name>FrequencyAnalyzer</name>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="103"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="107"/>
         <source>Frequency Analyzer</source>
         <translation>빈도 분석기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="108"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="112"/>
         <source>Word frequency</source>
         <translation>단어 빈도</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="104"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="108"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="105"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="109"/>
         <source>Minimum size:</source>
         <translation>최소 크기:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="106"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="110"/>
         <source>Exclude words (comma separated):</source>
         <translation>제외할 단어(쉼표로 구분):</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="111"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="115"/>
         <source>Analyze</source>
         <translation>분석</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="112"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="116"/>
         <source>Phrase frequency</source>
         <translation>구절 빈도</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="109"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="113"/>
         <source>Number of words: from</source>
         <translation>어절 수:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/frequency_ui.py" line="110"/>
+        <location filename="../manuskript/ui/tools/frequency_ui.py" line="114"/>
         <source>to</source>
         <translation>내지</translation>
     </message>
@@ -552,17 +590,17 @@
         <translation>Manuskript란</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1084"/>
+        <location filename="../manuskript/mainWindow.py" line="1085"/>
         <source>Manuskript</source>
         <translation>Manuskript</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1216"/>
+        <location filename="../manuskript/mainWindow.py" line="1217"/>
         <source>Project {} saved.</source>
         <translation>프로젝트 {}(이)가 저장되었습니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1220"/>
+        <location filename="../manuskript/mainWindow.py" line="1221"/>
         <source>WARNING: Project {} not saved.</source>
         <translation>경고: 프로젝트 {}을(를) 저장하지 않았습니다.</translation>
     </message>
@@ -577,151 +615,151 @@
         <translation>불러온 프로젝트 {}에 오류가 있습니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1613"/>
+        <location filename="../manuskript/mainWindow.py" line="1622"/>
         <source> (~{} pages)</source>
         <translation> (~{} 쪽)</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1616"/>
+        <location filename="../manuskript/mainWindow.py" line="1625"/>
         <source>Words: {}{}</source>
         <translation>낱말: {}{}</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1624"/>
+        <location filename="../manuskript/mainWindow.py" line="1633"/>
         <source>Book summary</source>
         <translation>책 요약</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1625"/>
+        <location filename="../manuskript/mainWindow.py" line="1634"/>
         <source>Project tree</source>
         <translation>프로젝트 트리</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1626"/>
+        <location filename="../manuskript/mainWindow.py" line="1635"/>
         <source>Metadata</source>
         <translation>메타데이터</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1627"/>
+        <location filename="../manuskript/mainWindow.py" line="1636"/>
         <source>Story line</source>
         <translation>줄거리</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1692"/>
+        <location filename="../manuskript/mainWindow.py" line="1701"/>
         <source>Enter information about your book, and yourself.</source>
         <translation>당신과 당신의 책에 대한 정보를 입력하여 주십시오.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1695"/>
+        <location filename="../manuskript/mainWindow.py" line="1704"/>
         <source>The basic situation, in the form of a &apos;What if...?&apos; question. Ex: &apos;What if the most dangerous
                      evil wizard wasn&apos;t able to kill a baby?&apos; (Harry Potter)</source>
         <translation>‘만약……?’이라는 질문 형태의 기본적인 상황입니다. 예: ‘만약 가장 위험하고 사악한 마법사가
                      아기를 죽이지 못했다면?’ (해리 포터)</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1700"/>
+        <location filename="../manuskript/mainWindow.py" line="1709"/>
         <source>Take time to think about a one sentence (~50 words) summary of your book. Then expand it to
                      a paragraph, then to a page, then to a full summary.</source>
         <translation>당신의 책을 한 문장(50 어절 정도)으로 간추려 보세요. 그 다음에 문단 단위, 쪽 단위, 전체 요약으로
                      부풀리세요.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1705"/>
+        <location filename="../manuskript/mainWindow.py" line="1714"/>
         <source>Create your characters.</source>
         <translation>등장인물을 만듭니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1708"/>
+        <location filename="../manuskript/mainWindow.py" line="1717"/>
         <source>Develop plots.</source>
         <translation>플롯을 구성합니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1711"/>
+        <location filename="../manuskript/mainWindow.py" line="1720"/>
         <source>Build worlds.  Create hierarchy of broad categories down to specific details.</source>
         <translation>세계를 만듭니다.  광범위한 것부터 세세한 것까지 설정을 체계적으로 만들어 봅시다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1714"/>
+        <location filename="../manuskript/mainWindow.py" line="1723"/>
         <source>Create the outline of your masterpiece.</source>
         <translation>당신이 만들 걸작의 윤곽을 그립니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1717"/>
+        <location filename="../manuskript/mainWindow.py" line="1726"/>
         <source>Write.</source>
         <translation>써 보세요.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1720"/>
+        <location filename="../manuskript/mainWindow.py" line="1729"/>
         <source>Debug info. Sometimes useful.</source>
         <translation>디버그 정보입니다. 때론 도움이 됩니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1734"/>
+        <location filename="../manuskript/mainWindow.py" line="1743"/>
         <source>Dictionary</source>
         <translation>사전</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1882"/>
+        <location filename="../manuskript/mainWindow.py" line="1891"/>
         <source>Nothing</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1883"/>
+        <location filename="../manuskript/mainWindow.py" line="1892"/>
         <source>POV</source>
         <translation>시점</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1884"/>
+        <location filename="../manuskript/mainWindow.py" line="1893"/>
         <source>Label</source>
         <translation>라벨</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1885"/>
+        <location filename="../manuskript/mainWindow.py" line="1894"/>
         <source>Progress</source>
         <translation>진척</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1886"/>
+        <location filename="../manuskript/mainWindow.py" line="1895"/>
         <source>Compile</source>
         <translation>엮기</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1909"/>
+        <location filename="../manuskript/mainWindow.py" line="1918"/>
         <source>Icon color</source>
         <translation>아이콘 색</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1910"/>
+        <location filename="../manuskript/mainWindow.py" line="1919"/>
         <source>Text color</source>
         <translation>글자 색</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1911"/>
+        <location filename="../manuskript/mainWindow.py" line="1920"/>
         <source>Background color</source>
         <translation>배경 색</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1902"/>
+        <location filename="../manuskript/mainWindow.py" line="1911"/>
         <source>Icon</source>
         <translation>아이콘</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1903"/>
+        <location filename="../manuskript/mainWindow.py" line="1912"/>
         <source>Text</source>
         <translation>글</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1904"/>
+        <location filename="../manuskript/mainWindow.py" line="1913"/>
         <source>Background</source>
         <translation>배경</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1905"/>
+        <location filename="../manuskript/mainWindow.py" line="1914"/>
         <source>Border</source>
         <translation>테두리</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1906"/>
+        <location filename="../manuskript/mainWindow.py" line="1915"/>
         <source>Corner</source>
         <translation>모서리</translation>
     </message>
@@ -911,52 +949,52 @@
         <translation>선택한 사건 빼기</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="925"/>
+        <location filename="../manuskript/mainWindow.py" line="923"/>
         <source>The file {} does not exist. Has it been moved or deleted?</source>
         <translation>파일 {}이(가) 없습니다. 지우거나 옮기셨습니까?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1748"/>
+        <location filename="../manuskript/mainWindow.py" line="1757"/>
         <source>Install {}{} to use spellcheck</source>
         <translation>맞춤법 검사를 사용하기 위해 {}{} 깔기</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1790"/>
+        <location filename="../manuskript/mainWindow.py" line="1799"/>
         <source>{} has no installed dictionaries</source>
         <translation>{}에 설치된 사전 없음</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1811"/>
+        <location filename="../manuskript/mainWindow.py" line="1820"/>
         <source>{}{} is not installed</source>
         <translation>{}{} 미설치</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Save project?</source>
         <translation>프로젝트를 저장합니까?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Save changes to project &quot;{}&quot; before closing?</source>
         <translation>프로젝트 “{}”를 닫기 전에 변경 사항을 저장하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1027"/>
+        <location filename="../manuskript/mainWindow.py" line="1028"/>
         <source>Your changes will be lost if you don&apos;t save them.</source>
         <translation>저장하지 않으면 작업한 내용을 잃습니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2009"/>
+        <location filename="../manuskript/mainWindow.py" line="2018"/>
         <source>PyQt / Qt versions 5.11 and 5.12 are known to cause a crash which might result in a loss of data.</source>
         <translation>PyQt / Qt 버전 5.11 및 5.12는 충돌을 일으켜 데이터가 손실될 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2010"/>
+        <location filename="../manuskript/mainWindow.py" line="2019"/>
         <source>PyQt {} and Qt {} are in use.</source>
         <translation>PyQt {}와(과) Qt {}를 쓰고 있습니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="2016"/>
+        <location filename="../manuskript/mainWindow.py" line="2025"/>
         <source>Proceed with import at your own risk</source>
         <translation>무시하고 불러오기 진행</translation>
     </message>
@@ -996,37 +1034,37 @@
         <translation>현재 세션의 진단 로그 파일 위치를 확인합니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1548"/>
+        <location filename="../manuskript/mainWindow.py" line="1557"/>
         <source>Sorry!</source>
         <translation>죄송합니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1548"/>
+        <location filename="../manuskript/mainWindow.py" line="1557"/>
         <source>This session is not being logged.</source>
         <translation>현재 세션은 로그가 작성되지 않고 있습니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>A log file is a Work in Progress!</source>
         <translation>로그 파일은 미완성 기능입니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>The log file &quot;{}&quot; will continue to be written to until Manuskript is closed.</source>
         <translation>로그 파일 &quot;{}&quot;에는 Manuskript가 종료될 때까지 작성이 계속됩니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1557"/>
+        <location filename="../manuskript/mainWindow.py" line="1566"/>
         <source>It will now be displayed in your file manager, but is of limited use until you close Manuskript.</source>
         <translation>이제 파일 관리자에 표시되오나, Manuskript를 종료하기 전까지는 사용이 제한됩니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1573"/>
+        <location filename="../manuskript/mainWindow.py" line="1582"/>
         <source>Error!</source>
         <translation>오류!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="1573"/>
+        <location filename="../manuskript/mainWindow.py" line="1582"/>
         <source>An error was encountered while trying to show the log file below in your file manager.</source>
         <translation>파일 관리자에 로그 파일을 표시하는 과정에서 오류가 발생했습니다.</translation>
     </message>
@@ -1061,42 +1099,42 @@
         <translation>원고 및 세션 어절 수 달성 목표</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="387"/>
+        <location filename="../manuskript/mainWindow.py" line="385"/>
         <source>Value</source>
         <translation type="unfinished">비중</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="395"/>
+        <location filename="../manuskript/mainWindow.py" line="393"/>
         <source>Bulk Info Manager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="440"/>
+        <location filename="../manuskript/mainWindow.py" line="438"/>
         <source>No Entries!</source>
         <translation>항목이 없습니다!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="440"/>
+        <location filename="../manuskript/mainWindow.py" line="438"/>
         <source>Please add entries to apply to the selected characters.</source>
         <translation>선택한 등장인물에 적용할 항목을 추가해주세요.</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="451"/>
+        <location filename="../manuskript/mainWindow.py" line="449"/>
         <source>Bulk Info Applied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="451"/>
+        <location filename="../manuskript/mainWindow.py" line="449"/>
         <source>The bulk info has been applied to the selected characters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="523"/>
+        <location filename="../manuskript/mainWindow.py" line="521"/>
         <source>Un-applied data!</source>
         <translation>적용하지 않은 데이터!</translation>
     </message>
     <message>
-        <location filename="../manuskript/mainWindow.py" line="523"/>
+        <location filename="../manuskript/mainWindow.py" line="521"/>
         <source>There are un-applied entries in this tab. Discard them?</source>
         <translation>이 탭에 적용하지 않은 항목이 있습니다. 버릴까요?</translation>
     </message>
@@ -1115,6 +1153,11 @@
         <source>Go &amp;forward</source>
         <translation>앞으로 가기(&amp;F)</translation>
     </message>
+    <message>
+        <location filename="../manuskript/mainWindow.py" line="1251"/>
+        <source>Loading project {} failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Search</name>
@@ -1127,747 +1170,757 @@
 <context>
     <name>Settings</name>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1766"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1837"/>
         <source>Settings</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1770"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1841"/>
         <source>General</source>
         <translation>일반</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1800"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1873"/>
         <source>Revisions</source>
         <translation>수정본</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1774"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1845"/>
         <source>Views</source>
         <translation>보기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1962"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2035"/>
         <source>Labels</source>
         <translation>라벨</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1963"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2036"/>
         <source>Status</source>
         <translation>상태</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1964"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2037"/>
         <source>Fullscreen</source>
         <translation>전체 화면</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1782"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1855"/>
         <source>General settings</source>
         <translation>일반 설정</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1783"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1856"/>
         <source>Application settings</source>
         <translation>애플리케이션 설정</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1790"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1863"/>
         <source>Loading</source>
         <translation>불러오기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1791"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1864"/>
         <source>Automatically load last project on startup</source>
         <translation>시작할 때 마지막으로 열었던 프로젝트 불러오기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1792"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1865"/>
         <source>Saving</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1793"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1866"/>
         <source>Automatically save every</source>
         <translation>자동으로</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1794"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1867"/>
         <source>minutes.</source>
         <translation>분마다 저장하기.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1795"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1868"/>
         <source>If no changes during</source>
         <translation>변경되지 않은 시간</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1796"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1869"/>
         <source>seconds.</source>
         <translation>초마다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1797"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1870"/>
         <source>Save on project close</source>
         <translation>프로젝트를 닫을 때 저장하기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1798"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1871"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If you check this option, your project will be saved as one single file. Easier to copy or backup, but does not allow collaborative editing, or versioning.&lt;br/&gt;If this is unchecked, your project will be saved as a folder containing many small files.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;이 옵션에 체크하면 프로젝트를 단일 파일로 저장합니다. 복사와 백업이 간단하지만, 공동 편집을 하거나 버전 구분을 하지 못합니다.&lt;br/&gt;체크를 해제하면 프로젝트를 여러 파일이 들어있는 폴더로 저장합니다.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1799"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1872"/>
         <source>Save to one single file</source>
         <translation>단일 파일로 저장</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1801"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1874"/>
         <source>Revisions are a way to keep track of modifications. For each text item, it stores any changes you make to the main text, allowing you to see and restoring previous versions.</source>
         <translation>수정본은 변경된 이력을 추적합니다. 각 문서마다 변화가 있으면 저장하고 이전 버전의 글을 확인 및 복구할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1802"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1875"/>
         <source>Keep revisions</source>
         <translation>수정본 보존</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1803"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1876"/>
         <source>S&amp;mart remove</source>
         <translation>스마트 삭제(&amp;m)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1804"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1877"/>
         <source>Keep:</source>
         <translation>남겨두기:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1805"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1878"/>
         <source>Smart remove allows you to keep only a certain number of revisions. It is strongly recommended to use it, lest your files would be bloated with thousands of insignificant changes.</source>
         <translation>스마트 삭제 기능은 일정한 개수의 수정본만 남깁니다. 사소한 변경 사항을 정리하여 파일 용량을 줄이기 위하여 강력히 추천합니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1806"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1879"/>
         <source>revisions per day for the last month</source>
         <translation>개 수정본(지난 달 것은 하루마다)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1807"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1880"/>
         <source>revisions per minute for the last 10 minutes</source>
         <translation>개 수정본(10분 전 것은 1분마다)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1808"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1881"/>
         <source>revisions per hour for the last day</source>
         <translation>개 수정본(어제 것은 시간마다)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1809"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1882"/>
         <source>revisions per 10 minutes for the last hour</source>
         <translation>개 수정본(한 시간 전 것은 10분마다)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1810"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1883"/>
         <source>revisions per week till the end of time</source>
         <translation>개 수정본(기간이 지난 것은 주마다)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1812"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1885"/>
         <source>Views settings</source>
         <translation>보기 설정</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1849"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1922"/>
         <source>Tree</source>
         <translation>나무</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1917"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1990"/>
         <source>Colors</source>
         <translation>빛깔</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1886"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1959"/>
         <source>Icon color:</source>
         <translation>아이콘 색:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1911"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1984"/>
         <source>Nothing</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1912"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1985"/>
         <source>POV</source>
         <translation>시점</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1913"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1986"/>
         <source>Label</source>
         <translation>라벨</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1914"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1987"/>
         <source>Progress</source>
         <translation>진척</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1915"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1988"/>
         <source>Compile</source>
         <translation>엮기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1892"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2097"/>
         <source>Text color:</source>
         <translation>글자 색:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1898"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2098"/>
         <source>Background color:</source>
         <translation>배경 색:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1836"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1909"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1837"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1910"/>
         <source>Show ite&amp;m count</source>
         <translation>항목 수 보기(&amp;m)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1847"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1920"/>
         <source>Show summary</source>
         <translation>요약 보기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1842"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1915"/>
         <source>&amp;Nothing</source>
         <translation>표시 없음(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1843"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1916"/>
         <source>Text</source>
         <translation>글</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1878"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1951"/>
         <source>Outline</source>
         <translation type="unfinished">개요</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1869"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1942"/>
         <source>Visible columns</source>
         <translation>열 표시</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1870"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1943"/>
         <source>Goal</source>
         <translation>목표</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1871"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1944"/>
         <source>Word count</source>
         <translation>낱말 수</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1872"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1945"/>
         <source>Percentage</source>
         <translation>백분율</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1877"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1950"/>
         <source>Title</source>
         <translation>제목</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1916"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1989"/>
         <source>Index cards</source>
         <translation>색인 카드</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1885"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1958"/>
         <source>Item colors</source>
         <translation>항목 색</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1904"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2099"/>
         <source>Border color:</source>
         <translation>테두리 색:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1910"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1983"/>
         <source>Corner color:</source>
         <translation>모서리 색:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1879"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1952"/>
         <source>Background</source>
         <translation>배경</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2000"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2073"/>
         <source>Color:</source>
         <translation>빛깔:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1976"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2049"/>
         <source>Image:</source>
         <translation>그림:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1961"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2034"/>
         <source>Text editor</source>
         <translation>텍스트 편집기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1922"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1995"/>
         <source>Font</source>
         <translation>글꼴</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1923"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1996"/>
         <source>Family:</source>
         <translation>모음:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2002"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2075"/>
         <source>Size:</source>
         <translation>크기:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2003"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2076"/>
         <source>Misspelled:</source>
         <translation>오자:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1918"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1991"/>
         <source>Background:</source>
         <translation>배경:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1933"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2006"/>
         <source>Paragraphs</source>
         <translation>문단</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2004"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2077"/>
         <source>Line spacing:</source>
         <translation>줄 간격:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2005"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2078"/>
         <source>Single</source>
         <translation>1줄</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2006"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2079"/>
         <source>1.5 lines</source>
         <translation>1.5줄</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2007"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2080"/>
         <source>Double</source>
         <translation>2줄</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2008"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2081"/>
         <source>Proportional</source>
         <translation>비례</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2009"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2082"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2010"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2083"/>
         <source>Tab width:</source>
         <translation>탭 너비:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2014"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2087"/>
         <source> px</source>
         <translation> px</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2015"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2088"/>
         <source>Indent 1st line</source>
         <translation>첫줄 들여쓰기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2012"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2085"/>
         <source>Spacing:</source>
         <translation>문단 간격:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1965"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2038"/>
         <source>New</source>
         <translation>추가</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1966"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2039"/>
         <source>Edit</source>
         <translation>편집</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1967"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2040"/>
         <source>Delete</source>
         <translation>제거</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1968"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2041"/>
         <source>Theme name:</source>
         <translation>테마 이름:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1969"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2042"/>
         <source>Apply</source>
         <translation>적용</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1970"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2043"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1971"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2044"/>
         <source>Window Background</source>
         <translation>창 배경</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1972"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2045"/>
         <source>Text Background</source>
         <translation>글 배경</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1973"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2046"/>
         <source>Text Options</source>
         <translation>텍스트 옵션</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1974"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2047"/>
         <source>Paragraph Options</source>
         <translation>문단 옵션</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1977"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2050"/>
         <source>Type:</source>
         <translation>유형:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1978"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2051"/>
         <source>No Image</source>
         <translation>그림 없음</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1979"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2052"/>
         <source>Tiled</source>
         <translation>바둑판식</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1980"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2053"/>
         <source>Centered</source>
         <translation>가운데</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1991"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2064"/>
         <source>Stretched</source>
         <translation>채우기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1982"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2055"/>
         <source>Scaled</source>
         <translation>맞춤</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1983"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2056"/>
         <source>Zoomed</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1985"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2058"/>
         <source>Opacity:</source>
         <translation>불투명도:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1987"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2060"/>
         <source>Position:</source>
         <translation>위치:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2016"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2089"/>
         <source>Left</source>
         <translation>왼쪽</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2017"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2090"/>
         <source>Center</source>
         <translation>가운데</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2018"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2091"/>
         <source>Right</source>
         <translation>오른쪽</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1992"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2065"/>
         <source>Width:</source>
         <translation>폭:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1995"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2068"/>
         <source>Corner radius:</source>
         <translation>모서리 곡률:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1996"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2069"/>
         <source>Margins:</source>
         <translation>외부 여백:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1998"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2071"/>
         <source>Padding:</source>
         <translation>내부 여백:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2001"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2074"/>
         <source>Font:</source>
         <translation>글꼴:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1882"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2094"/>
         <source>Style</source>
         <translation>스타일</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1951"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2024"/>
         <source>Cursor</source>
         <translation>커서</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1952"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2025"/>
         <source>Use block insertion of</source>
         <translation>블록 삽입</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1934"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2007"/>
         <source>Alignment:</source>
         <translation>정렬:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2019"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2092"/>
         <source>Justify</source>
         <translation>양쪽</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="2020"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2093"/>
         <source>Alignment</source>
         <translation>정렬</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1832"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1905"/>
         <source>Icon Size</source>
         <translation>아이콘 크기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1833"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1906"/>
         <source>TextLabel</source>
         <translation>텍스트라벨</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1954"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2027"/>
         <source>Disable blinking</source>
         <translation>깜박이지 않기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1926"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1999"/>
         <source>Text area</source>
         <translation>글상자</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1927"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2000"/>
         <source>Max width</source>
         <translation>최대폭</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1929"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2002"/>
         <source>Left/Right margins:</source>
         <translation>왼쪽/오른쪽 여백:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1931"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2004"/>
         <source>Top/Bottom margins:</source>
         <translation>위/아래 여백:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1840"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1913"/>
         <source>S&amp;how progress</source>
         <translation>진척 보기(&amp;h)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1841"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1914"/>
         <source>Show summar&amp;y</source>
         <translation>요약 보기(&amp;y)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1846"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1919"/>
         <source>Show p&amp;rogress</source>
         <translation>진척 보기(&amp;r)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1883"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1956"/>
         <source>Old st&amp;yle</source>
         <translation>이전 스타일(&amp;r)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1919"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1992"/>
         <source>Transparent</source>
         <translation>투명하게</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1921"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1994"/>
         <source>Restore defaults</source>
         <translation>기본값으로 되돌리기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1785"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1858"/>
         <source>Style:</source>
         <translation>스타일:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1786"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1859"/>
         <source>Language:</source>
         <translation>언어:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1787"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1860"/>
         <source>Font size:</source>
         <translation>글자 크기:</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1784"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1857"/>
         <source>Restarting Manuskript ensures all settings take effect.</source>
         <translation>설정을 제대로 적용하려면 Manuskript를 다시 시작하셔야 합니다.</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1838"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1911"/>
         <source>Show &amp;word count</source>
         <translation>낱말 수 보기(&amp;w)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1844"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1917"/>
         <source>&amp;Show word count</source>
         <translation>낱말 수 보기(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1884"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1957"/>
         <source>&amp;New style</source>
         <translation>새 스타일(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1955"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2028"/>
         <source>Typewriter mode</source>
         <translation>타자기 모드</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1956"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2029"/>
         <source>Focus mode</source>
         <translation>집중 모드</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1957"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2030"/>
         <source>None</source>
         <translation>끔</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1958"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2031"/>
         <source>Sentence</source>
         <translation>문장</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1959"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2032"/>
         <source>Line</source>
         <translation>행</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1960"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="2033"/>
         <source>Paragraph</source>
         <translation>문단</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1811"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1884"/>
         <source>&lt;p&gt;&lt;b&gt;The Revisions feature has been at the source of many reported issues. In this version of Manuskript it has been turned off by default for new projects in order to provide the best experience.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Why aren&apos;t these issues fixed already? &lt;a href=&quot;https://www.theologeek.ch/manuskript/contribute/&quot;&gt;We need your help to make Manuskript better!&lt;/a&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;수정본 기능은 많은 문제의 원인으로 보고되어 왔습니다. 이번 판의 Manuskript는 최상의 경험을 제공하고자 이 기능을 새 프로젝트에서는 기본적으로 꺼 놓았습니다.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;이 문제에 대한 해결책이 있으신가요? &lt;a href=&quot;https://www.theologeek.ch/manuskript/contribute/&quot;&gt;저희는 여러분의 도움이 필요합니다!&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1788"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1861"/>
         <source>Show progress in chars next
  to words</source>
         <translation>진척도를 어절 수 옆에
  글자 수로 표시</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1834"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1907"/>
         <source>Char/Word Counter</source>
         <translation>글자/어절 수</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1835"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1908"/>
         <source>Count spaces as chars</source>
         <translation>글자 수에 공백 포함</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1839"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1912"/>
         <source>Show char c&amp;ount</source>
         <translation>글자 수 표시(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/settings_ui.py" line="1845"/>
+        <location filename="../manuskript/ui/settings_ui.py" line="1918"/>
         <source>Sho&amp;w char count</source>
         <translation>글자 수 표시(&amp;W)</translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/settings_ui.py" line="2095"/>
+        <source>Tooltips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/settings_ui.py" line="2096"/>
+        <source>Use system defaults</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SpellAction</name>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="611"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="622"/>
         <source>Spelling Suggestions</source>
         <translation>추천 단어</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="630"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="641"/>
         <source>&amp;Add to dictionary</source>
         <translation>사전에 추가(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="683"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="694"/>
         <source>&amp;Remove from custom dictionary</source>
         <translation>사용자 사전에서 제거(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="538"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="549"/>
         <source>&amp;New Character</source>
         <translation>새 등장인물(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="545"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="556"/>
         <source>&amp;New Plot Item</source>
         <translation>새 플롯(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="552"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="563"/>
         <source>&amp;New World Item</source>
         <translation>새 세계관(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="654"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="665"/>
         <source>&amp;Correction Suggestions</source>
         <translation>수정 제안(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="663"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="674"/>
         <source>&amp;Correction Suggestion</source>
         <translation>수정 제안(&amp;C)</translation>
     </message>
@@ -1967,6 +2020,24 @@
         <location filename="../manuskript/ui/views/basicItemView_ui.py" line="70"/>
         <source>Few sentences summary:</source>
         <translation>몇 문장으로 요약:</translation>
+    </message>
+</context>
+<context>
+    <name>characterInfoDialog</name>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="94"/>
+        <source>Add Character Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="95"/>
+        <source>Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../manuskript/ui/characterInfoDialog.py" line="96"/>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2134,22 +2205,22 @@
 <context>
     <name>dlg</name>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="435"/>
+        <location filename="../manuskript/load_save/version_1.py" line="436"/>
         <source>Files not saved</source>
         <translation>파일이 저장되지 않음</translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="436"/>
+        <location filename="../manuskript/load_save/version_1.py" line="437"/>
         <source>The following files were not saved and appear to be open in another program</source>
         <translation>다음 파일을 저장하지 못하였으며 다른 프로그램에 열려 있는 것 같습니다</translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="928"/>
+        <location filename="../manuskript/load_save/version_1.py" line="933"/>
         <source>Files not loaded</source>
         <translation>파일을 불러오지 못함</translation>
     </message>
     <message>
-        <location filename="../manuskript/load_save/version_1.py" line="929"/>
+        <location filename="../manuskript/load_save/version_1.py" line="934"/>
         <source>The following files were not loaded and appear to be open in another program</source>
         <translation>다음 파일을 불러오지 못하였으며 다른 프로그램에 열려 있는 것 같습니다</translation>
     </message>
@@ -2718,32 +2789,32 @@
         <translation>Alt+Up</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="259"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="258"/>
         <source>Root</source>
         <translation>루트</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="366"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="397"/>
         <source>{} words </source>
         <translation>{} 단어 </translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="347"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="378"/>
         <source>({} chars) {}  words / {} </source>
         <translation>({} 글자) {}  어절 / {} </translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="353"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="384"/>
         <source>{}  words / {} </source>
         <translation>{}  어절 / {} </translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="368"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="399"/>
         <source>{} chars</source>
         <translation>{} 글자</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/editors/mainEditor.py" line="362"/>
+        <location filename="../manuskript/ui/editors/mainEditor.py" line="393"/>
         <source>{} chars </source>
         <translation>{} 글자 </translation>
     </message>
@@ -3323,52 +3394,52 @@
 <context>
     <name>settingsWindow</name>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="674"/>
+        <location filename="../manuskript/settingsWindow.py" line="688"/>
         <source>New status</source>
         <translation>새 상태</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="695"/>
+        <location filename="../manuskript/settingsWindow.py" line="709"/>
         <source>New label</source>
         <translation>새 라벨</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="731"/>
+        <location filename="../manuskript/settingsWindow.py" line="745"/>
         <source>newtheme</source>
         <translation>새테마</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="741"/>
+        <location filename="../manuskript/settingsWindow.py" line="755"/>
         <source>New theme</source>
         <translation>새 테마</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="773"/>
+        <location filename="../manuskript/settingsWindow.py" line="787"/>
         <source> (read-only)</source>
         <translation> (읽기 전용)</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="534"/>
+        <location filename="../manuskript/settingsWindow.py" line="548"/>
         <source>Open Image</source>
         <translation>그림 열기</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="534"/>
-        <source>Image files (*.jpg; *.jpeg; *.png)</source>
-        <translation>그림 파일 (*.jpg; *.jpeg; *.png)</translation>
+        <location filename="../manuskript/settingsWindow.py" line="548"/>
+        <source>Image files</source>
+        <translation>그림 파일</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="550"/>
+        <location filename="../manuskript/settingsWindow.py" line="564"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="547"/>
+        <location filename="../manuskript/settingsWindow.py" line="561"/>
         <source>Unable to load selected file</source>
         <translation>선택한 파일을 불러올 수 없음</translation>
     </message>
     <message>
-        <location filename="../manuskript/settingsWindow.py" line="550"/>
+        <location filename="../manuskript/settingsWindow.py" line="564"/>
         <source>Unable to add selected image:
 {}</source>
         <translation>선택한 그림을 추가할 수 없습니다:
@@ -3452,7 +3523,7 @@
 <context>
     <name>storylineView</name>
     <message>
-        <location filename="../manuskript/ui/views/storylineView_ui.py" line="56"/>
+        <location filename="../manuskript/ui/views/storylineView_ui.py" line="58"/>
         <source>Form</source>
         <translation type="unfinished">형식</translation>
     </message>
@@ -3493,47 +3564,47 @@
 <context>
     <name>targets</name>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="128"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="131"/>
         <source>Project Targets</source>
         <translation>프로젝트 달성 목표</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="129"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="132"/>
         <source>Draft Target</source>
         <translation>원고 달성 목표</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="136"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="139"/>
         <source>0</source>
         <translation type="unfinished">0</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="137"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="140"/>
         <source>of</source>
         <translation>/</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="132"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="135"/>
         <source>10,000</source>
         <translation>10,000</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="133"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="136"/>
         <source>Words</source>
         <translation>어절</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="134"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="137"/>
         <source>Session Target</source>
         <translation>세션 달성 목표</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="135"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="138"/>
         <source>Reset</source>
         <translation>초기화</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/tools/targets_ui.py" line="138"/>
+        <location filename="../manuskript/ui/tools/targets_ui.py" line="141"/>
         <source>words</source>
         <translation>어절</translation>
     </message>
@@ -3541,7 +3612,7 @@
 <context>
     <name>textEditView</name>
     <message>
-        <location filename="../manuskript/ui/views/textEditView.py" line="324"/>
+        <location filename="../manuskript/ui/views/textEditView.py" line="334"/>
         <source>Various</source>
         <translation type="unfinished">여럿</translation>
     </message>
@@ -3549,7 +3620,7 @@
 <context>
     <name>textFormat</name>
     <message>
-        <location filename="../manuskript/ui/editors/textFormat_ui.py" line="88"/>
+        <location filename="../manuskript/ui/editors/textFormat_ui.py" line="90"/>
         <source>Form</source>
         <translation type="unfinished">형식</translation>
     </message>
@@ -3620,22 +3691,22 @@
 <context>
     <name>welcome</name>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="124"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="126"/>
         <source>Form</source>
         <translation type="unfinished">형식</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="125"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="127"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="128"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="130"/>
         <source>Templates</source>
         <translation>템플릿</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="129"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="131"/>
         <source>Empty</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3665,32 +3736,32 @@
         <translation>예제 프로젝트</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="136"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="138"/>
         <source>Add level</source>
         <translation>수준 추가</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="137"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="139"/>
         <source>Add word count</source>
         <translation>어절 수 추가</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="138"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="140"/>
         <source>Next time, automatically open last project</source>
         <translation>다음부터는 마지막으로 작업한 프로젝트 자동으로 열기</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="139"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="141"/>
         <source>Open...</source>
         <translation>열기...</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="140"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="142"/>
         <source>Recent</source>
         <translation>최근 사용</translation>
     </message>
     <message>
-        <location filename="../manuskript/ui/welcome_ui.py" line="141"/>
+        <location filename="../manuskript/ui/welcome_ui.py" line="143"/>
         <source>Create</source>
         <translation>만들기</translation>
     </message>

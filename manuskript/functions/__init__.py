@@ -23,11 +23,22 @@ AUC = Qt.AutoConnection | Qt.UniqueConnection
 MW = None
 
 
+translationCache = dict()
+
+def resetTranslation():
+    translationCache.clear()
+
 def safeTranslate(qApp, group, text):
+    if text in translationCache:
+        return translationCache[text]
+
     try:
-        return qApp.translate(group, text)
+        _text = qApp.translate(group, text)
+        translationCache[text] = _text
+        return _text
     except:
         return text
+
 
 def wordCount(text):
     return len(re.findall(r"\S+", re.sub(r"(<!--).+?(-->)", "", text, flags=re.DOTALL)))
@@ -101,7 +112,7 @@ def drawProgress(painter, rect, progress, radius=0):
 def colorFromProgress(progress):
     c0 = QColor("#00000000")
 
-    if not progress:
+    if progress is None:
         return c0
 
     progress = toFloat(progress)

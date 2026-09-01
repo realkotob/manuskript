@@ -21,7 +21,8 @@ try:
     import symspellpy
     import distutils.version
 
-    if distutils.version.LooseVersion(symspellpy.__version__) < SYMSPELLPY_MIN_VERSION:
+    if ((not hasattr(symspellpy, '__version__')) or
+        (distutils.version.LooseVersion(symspellpy.__version__) < SYMSPELLPY_MIN_VERSION)):
         symspellpy = None
 
 except ImportError:
@@ -504,13 +505,13 @@ def get_languagetool_match_errorLength(match):
     if use_language_check:
         return match.errorlength
     else:
-        return match.errorLength
+        return match.error_length
 
 def get_languagetool_match_ruleIssueType(match):
     if use_language_check:
         return match.locqualityissuetype
     else:
-        return match.ruleIssueType
+        return match.rule_issue_type
 
 def get_languagetool_match_message(match):
     if use_language_check:
